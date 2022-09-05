@@ -1,0 +1,6903 @@
+{
+  "nodes": [
+      {
+        "id" : "l1",
+        "name" : "交流变压器",
+        "introduction" : "利用电磁感应原理做成的能改变电压的设备",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l2",
+        "name" : "低压母线",
+        "introduction" : "电力配电设备上的导电材料，一般用于室内变压器到配电柜再到电源总闸，然后连接到各分闸",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l3",
+        "name" : "未绝缘化",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l4",
+        "name" : "出口短路",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l5",
+        "name" : "未绝缘化处理的低压母线",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/0001.jpg",
+        "content" : "None"
+      },
+      {
+        "id" : "l6",
+        "name" : "早期政策",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "2005版十八项反措在低 压母线绝缘化上的要求为“可根据需要在母线桥上装设绝缘热缩保护 材料”，在2012版十八项反措中才以“应考虑”进行要求，因此造成 早期投运的变压器低压侧未进行绝缘化处理"
+      },
+      {
+        "id" : "l7",
+        "name" : "运行周期过长",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "部分主变长期运行 后低压母线绝缘护套老化、脱落，因难以停电或检修时间较短等原因 未整改"
+      },
+      {
+        "id" : "l8",
+        "name" : "设计不周",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "500kV变压器低压母线采用支撑管母型式，外绝缘按 72.5kV设计相间距离，一般为1.2米，满足安全距离要求，因此设 计上未对500kV变压器低压母线进行绝缘化处理"
+      },
+      {
+        "id" : "l9",
+        "name" : "规避新设备问题",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门在工程设计中明确“220kV及以下变压器35kV及 以下低压母线绝缘化”的设计要求；运维单位在新建变电站设计及验收阶段严格验收"
+      },
+      {
+        "id" : "l10",
+        "name" : "绝缘化措施",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "调度部门及时安排停电，运维单位对未进行绝缘化改造的低压母线采取加装绝缘热缩等绝缘化措施"
+      },
+      {
+        "id" : "l11",
+        "name" : "气体继电器",
+        "introduction" : "气体继电器是油浸式变压器上的重要安全保护装置，它安装在变压器箱盖与储油柜的联管上，在变压器内部故障产生的气体或油流作用下接通信号或跳闸回路，使有关装置发出警报信号或使变压器从电网中切除，达到保护变压器的作用。",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l12",
+        "name" : "未定期校验",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l13",
+        "name" : "干簧管破裂故障的气体继电器",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/0002.jpg",
+        "content" : "None"
+      },
+      {
+        "id" : "l14",
+        "name" : "变压器故障",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l15",
+        "name" : "未停电检修",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "只有变压器停电时才能开展继电器校验工作，部分省公司未按反措要求开展气体继电器校验，造成校验超期"
+      },
+      {
+        "id" : "l16",
+        "name" : "无检修设备",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "部分地市公司尚未配置气体继电器校验设备，无法开展定期校验工作"
+      },
+      {
+        "id" : "l17",
+        "name" : "定期校验",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "采用器芯轮换或气体继电器整体 轮换校验模式，按照变压器本体状态检修周期结合本体停电进行气体 继电器校验。"
+      },
+      {
+        "id" : "l18",
+        "name" : "抗短路能力不足",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l19",
+        "name" : "因抗短路能力不足损坏的变压器",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/0003.jpg",
+        "content" : "None"
+      },
+      {
+        "id" : "l20",
+        "name" : "主变损毁",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l21",
+        "name" : "绕组线圈损坏",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l22",
+        "name" : "设备无法自行校核",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布后，在设备采购阶段未将该反措条款写入招标技术规范中，导致部分厂家未提供抗短路能力计算报告及参数，无法自行校核"
+      },
+      {
+        "id" : "l23",
+        "name" : " 厂家不配合",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "厂家出于技术保密等原因，不愿提供抗短路校核所需的全部参数，也不配合抗短路能力校核工作，同时对电网企业所提供的校核结果不认可"
+      },
+      {
+        "id" : "l24",
+        "name" : "治理工作滞后",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "受停电时间、 资金需求、替换备品等问题的影响，造成变压器抗短路能力治理工作滞后"
+      },
+      {
+        "id" : "l25",
+        "name" : "明确设备设计要求",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门结合新投和扩展变电站近期和远期系统短路水平， 在工程设计中明确变压器抗短路能力的设计要求，确保选用的变压器满足近期和远期系统短路容量要求"
+      },
+      {
+        "id" : "l26",
+        "name" : "采购优良产品",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "物资部门在设备采购阶段应选择具有良好运行业绩和成熟制造经验生产厂家的产品，240MVA及以下容量变压器应选用通过突发短路试验验证的产品。将”变压器制造厂应提供抗短路能力计算报 告及相关参数，并配合电网公司开展校核工作”要求纳入招标技术协议中，确保抗短路能力校核工作可顺利开展。"
+      },
+      {
+        "id" : "l27",
+        "name" : "开展抗短路能力校核和治理工作",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运检部会同物资部门，组织电科院和运维单位按照近期国网运检部下发《开展变压器抗短路能力不足等问题排查治理工作》的通知，持续深入开展抗短路能力校核和治理工作，联系厂家获取抗短路 能力计算报告和所需的详细参数，并由厂家配合进行校核"
+      },
+      {
+        "id" : "l28",
+        "name" : "停电开展试验诊断",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "调度部门及时安排设备停电，运维单位对于遭受短路冲击的变压器及时停电开展试验诊断，对抗短路能力不足的变压器有选择的加装限流电抗器、进行中性点小电抗改造、安排工厂化检修或整体更 换等"
+      },
+      {
+        "id" : "l29",
+        "name" : "有载分接开关",
+        "introduction" : "有载分接开关是指一种适合在变压器励磁或负载下进行操作的、用来改变变压器绕组分接连接位置的调压装置。其基本原理就是在保证不中断负载电流的情况下，实现变压器绕组中分接头之间的切换，从而改变绕组的匝数，即变压器的电压比，最终实现调压的目的。",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l30",
+        "name" : "未投跳闸",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l31",
+        "name" : "有载分接开关挡板型油流继电器",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/0004.jpg",
+        "content" : "None"
+      },
+      {
+        "id" : "l32",
+        "name" : "变压器烧毁",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l33",
+        "name" : "变电站着火",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l34",
+        "name" : "设备选用不当",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "对油中熄弧有载分接开关保护装置 的型式选用不当，采用了带浮球的气体继电器，而未选用带挡板的油流继电器。"
+      },
+      {
+        "id" : "l35",
+        "name" : "添加招标要求",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "物资部门应在设备采购阶段将“油中熄孤有载分接开关应配 置带挡板的油流继电器（不应配置带浮球的气体继电器），真空有载分接开关应选用具有油流冲击动作、轻瓦斯报警功能的气体继电器” 的要求纳入招标技术协议中，要求厂家在设备制造阶段落实"
+      },
+      {
+        "id" : "l36",
+        "name" : "新设备验收",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位在新设备验收阶段，应对有载分接开关保护装置的型式进行检查，对不符合要求的，验收不通过"
+      },
+      {
+        "id" : "l37",
+        "name" : "停电更换设备",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "对于已采用气体继电器的油中熄弧有载分接开关，如不具备油流冲击动作功能，调度部门应及时安排停电，运维单位对气体继电器进行更换，如具备油流冲击动作功能，可维持现状不更换，但应取 消轻瓦斯回路。"
+      },
+      {
+        "id" : "l38",
+        "name" : "铁心",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l39",
+        "name" : "夹件",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l40",
+        "name" : "引出接地",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l41",
+        "name" : "铁心和夹件共用一条接地引下线",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/0005.jpg",
+        "content" : "None"
+      },
+      {
+        "id" : "l42",
+        "name" : "铁心和夹件引至底部接地但难以测量",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/0006.jpg",
+        "content" : "None"
+      },
+      {
+        "id" : "l43",
+        "name" : "无法及时了解变压器运行状态",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l44",
+        "name" : "早期政策",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "2005版十八项反措中并未对铁心和夹件接地电流检测提出要求。"
+      },
+      {
+        "id" : "l45",
+        "name" : "未安排停电整改",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "变压器铁心、夹件已分别引出， 但共用一根接地引下线，尚未安排停电整改"
+      },
+      {
+        "id" : "l46",
+        "name" : "新设备验收",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "物资部门在设备采购阶段将“铁心和夹件应分别引出接地并便于现场测量”的要求纳入招标技术协议中，运维单位在新投变压器验收过程中，严格变压器铁心和夹件接地要求的落实，反措不落实、 验收不通过。"
+      },
+      {
+        "id" : "l47",
+        "name" : "停电整改",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "调度部门及时安排停电，运维单位对于已投运的变压器，具备整改条件的，结合停电对铁心和夹件接地引下进行整改。"
+      },
+      {
+        "id" : "l48",
+        "name" : "中性点接地不规范",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l49",
+        "name" : "变压器中性点单接地",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/0007.jpg",
+        "content" : "None"
+      },
+      {
+        "id" : "l50",
+        "name" : "设备失地运行",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l51",
+        "name" : "中性点漂移",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l52",
+        "name" : "相电压不平衡",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l53",
+        "name" : "变压器过电压击穿",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l54",
+        "name" : "早期政策",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "工程设计中 GB/T50065-2011《交流电气装置的接地设计规范》仅要求变电站变压器中性点接地，造成设计中多数未采用双接地引下线"
+      },
+      {
+        "id" : "l55",
+        "name" : "安装错误",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "部分变压器中性点采用了两根接地线，但两根接地引下线并未与地网主网格的不同边连接"
+      },
+      {
+        "id" : "l56",
+        "name" : "接地方式错误",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布之后，部分变压器中性点接地采用双接地引下线焊接在构架上，再通过构架进行接地的方式，不符合反措的要求"
+      },
+      {
+        "id" : "l57",
+        "name" : "明确设计要求",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门在工程设计中明确“变压器中性点应有两根与地网 主网格的不同边连接的接地引下线”的设计要求；运维单位在设备安 装阶段，严格执行隐蔽工程验收，要求落实变压器中性点双接地措施。"
+      },
+      {
+        "id" : "l58",
+        "name" : "停电整改",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "调度部门及时安排停电，运维单位对于无需停电整改的，尽快安排进改造，对于需停电整改的，结合主变停电进行中性点接地改造。"
+      },
+      {
+        "id" : "l59",
+        "name" : "潜油泵",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l60",
+        "name" : "未设计延时启动",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l61",
+        "name" : "强油循环冷却变压器潜油泵",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/0008.jpg",
+        "content" : "None"
+      },
+      {
+        "id" : "l62",
+        "name" : "重瓦斯保护误动",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l63",
+        "name" : "重瓦斯跳闸",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l64",
+        "name" : "早期政策",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布前并无相关设计要求，部分投运时间较早的变压器未设置潜油泵启动时间间隔"
+      },
+      {
+        "id" : "l65",
+        "name" : "未安排停电整改",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布后，在设备采购阶段仍未落实相关的反措要求，且受变压器 停电计划安排限制，尚未对冷却系统控制进行改造。"
+      },
+      {
+        "id" : "l66",
+        "name" : "添加招标要求",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "物资部门在设备采购阶段将”强油循环结构的潜油泵启动应 逐台启用，延时间隔应在30秒以上”要求纳入招标技术协议中，确保强油循环冷却变压器潜油泵符合反措要求。"
+      },
+      {
+        "id" : "l67",
+        "name" : "检查整改",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位检查强油循环冷却变压器潜油泵的启动方式，对不符合反措要求的进行整改。"
+      },
+      {
+        "id" : "l68",
+        "name" : "绕组",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l69",
+        "name" : "变形",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l70",
+        "name" : "发生绕组变形和绝缘故障的变压器",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/0009.jpg",
+        "content" : "None"
+      },
+      {
+        "id" : "l71",
+        "name" : "变压器短路冲击损坏",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l72",
+        "name" : "测试方法不当",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布前厂家和调试单位仅使用频响法测试绕组变形，未采用低电压短路阻抗测试绕组变形；新安装的变压器也是按照“有条件”的原则开展交接局部放电试验"
+      },
+      {
+        "id" : "l73",
+        "name" : "未进行正确测试",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布后仍有部分单位未按照要求在出厂和交接时用频响法和低电压短路阻抗法进行绕组变形试验，甚至交接时未进行变压器局部放电试验"
+      },
+      {
+        "id" : "l74",
+        "name" : "添加招标要求",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "物资部门在设备采购阶段将“110 (66) kV及以上电压等级变压器在出厂前，应用频响法和低电压短路阻抗测试绕组变形以留原始记录”的要求纳入招标技术协议中。"
+      },
+      {
+        "id" : "l75",
+        "name" : "新设备检查",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门对新安装的220千伏及以上电压等级的变压器开展频响法、低电压短路阻抗测试及现场局放放电试验。"
+      },
+      {
+        "id" : "l76",
+        "name" : "设备验收",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位设备验收中，对绕组变形和局部放电出厂、交接试验报告进行严格把关，落实反措要求。"
+      },
+      {
+        "id" : "l77",
+        "name" : "强油循环冷却系统",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l78",
+        "name" : "电源配置不当",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l79",
+        "name" : "强油循环冷却变压器",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/0010.jpg",
+        "content" : "None"
+      },
+      {
+        "id" : "l80",
+        "name" : "冷却系统控制装置",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/0011.jpg",
+        "content" : "None"
+      },
+      {
+        "id" : "l81",
+        "name" : "绝缘老化",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l82",
+        "name" : "变压器甩负荷",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l83",
+        "name" : "变压器损坏",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l84",
+        "name" : "击穿",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l85",
+        "name" : "设计不周",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布前，变压器制造厂无相关设计要求实现自动切换功能，虽然强油循环冷却系统已配置两个独立电源，但未实现自动切换功能"
+      },
+      {
+        "id" : "l86",
+        "name" : "未安排停电整改",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布后，因受停电计划限制，部分变压器尚未完成整改。"
+      },
+      {
+        "id" : "l87",
+        "name" : "添加招标要求",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "物资部门在设备采购阶段将“强油循环的冷却系统必须配 置两个相互独立的电源，并采用自动切换装置”要求纳入招标技术协议中。"
+      },
+      {
+        "id" : "l88",
+        "name" : "新设备验收",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位在新投变压器验收过程中，检查强油循环冷却变压器电源配置情况，重点检查是否具备自动切换功能，对不符合要求的进行整改。"
+      },
+      {
+        "id" : "l89",
+        "name" : "停电整改",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "调度部门及时安排停电，运维单位结合停电增加冷却系统电源的自动切换装置功能。"
+      },
+      {
+        "id" : "l90",
+        "name" : "低压侧",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l91",
+        "name" : "未装设避雷器",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l92",
+        "name" : "变压器低压侧装设避雷器",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/0012.jpg",
+        "content" : "None"
+      },
+      {
+        "id" : "l93",
+        "name" : "变压器绝缘损坏",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l94",
+        "name" : "早期政策",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布前，工程设计无相关要求，投运较早的llOkV及35kV变压器低压侧未加装避雷器"
+      },
+      {
+        "id" : "l95",
+        "name" : "部分单位未执行",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布后，因该反措为“宜加装”，非强制要求，部分单位未执行，但是对于具备“储能特点”的变压器，运行中应保证各侧有避雷器，以防止出现过电压造成线圈绝缘故障。"
+      },
+      {
+        "id" : "l96",
+        "name" : "新设备验收",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门在工程设计中明确“对于低压侧有空载运行或者带短母线运行可能的变压器，应在变压器低压侧装设避雷器进行保护” 的设计要求；运维单位新建和改扩建变电站设计及验收阶段，严格反 措落实，对反措不落实的验收不予通过。"
+      },
+      {
+        "id" : "l97",
+        "name" : "停电整改",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "调度部门及时安排停电，运维单位对具备改造条件的，结合停电进行整改。"
+      },
+      {
+        "id" : "l98",
+        "name" : "双浮球气体继电器",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l99",
+        "name" : "选用不当",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l100",
+        "name" : "双浮球气体继电器",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/0013.jpg",
+        "content" : "None"
+      },
+      {
+        "id" : "l101",
+        "name" : "单浮球气体继电器",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/0014.jpg",
+        "content" : "None"
+      },
+      {
+        "id" : "l102",
+        "name" : "单浮球气体继电器",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l103",
+        "name" : "变压器线圈烧毁",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l104",
+        "name" : "早期政策",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布前采购的产品无此要求，部分厂家设计为单浮球继电器"
+      },
+      {
+        "id" : "l105",
+        "name" : "未严格把关验收",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布后，在物资招标采购中没有落实反措要求，设备验收阶段也未严格把关，造成部分排油注氮保护装置的变压器（按照规程要求125MVA及以上变压器采用固定式灭火装置）使用单浮球继电器。"
+      },
+      {
+        "id" : "l106",
+        "name" : "添加招标要求",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "物资部门在设备采购阶段将“220kV及以上的变压器应采用具有联动功能的双浮球结构的气体继电器”的要求纳入招标技术协议中。"
+      },
+      {
+        "id" : "l107",
+        "name" : "停电整改",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "调度部门及时安排停电，运维单位对于已投运的变电站，结合停电对采用排油注氮方式变压器的非双浮球结构气体继电器进行更换。"
+      },
+      {
+        "id" : "l108",
+        "name" : "变压器中性点",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l109",
+        "name" : "未釆取棒间隙",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l110",
+        "name" : "变压器中性点仅配置避雷器保护",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/0015.jpg",
+        "content" : "None"
+      },
+      {
+        "id" : "l111",
+        "name" : "避雷器爆炸",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l112",
+        "name" : "早期政策",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "早期工程设计均按照 DL/T620-1997《交流电气装置的过电压保护和绝缘配合》中7.3.5 “有效接地系统中的中性点不接地的变压器，如中性点采用分级绝缘 且未装设保护间隙，应在中性点装设雷电过电压保护装置”要求执行，该要求中未明确采用棒间隙的保护方式，导致部分llOkV变压器 中性点采用了避雷器或羊角式结构来抑制中性点过电压"
+      },
+      {
+        "id" : "l113",
+        "name" : "未安排停电整改",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布后，受停电时间限制，尚未进行整改"
+      },
+      {
+        "id" : "l114",
+        "name" : "设计落实反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建单位在设计时落实反措，对110~220kV不接地变压器的中性点过电压保护应采用间隙保护方式。"
+      },
+      {
+        "id" : "l115",
+        "name" : "停电整改",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "调度部门及时安排停电，运维单位对于已投运的变电站，结合停电对变压器中性点过电压保护方式进行改造"
+      },
+      {
+        "id" : "l116",
+        "name" : "3/2接线主变直接接在母线上",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l117",
+        "name" : "变电站全停",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l118",
+        "name" : "早期政策",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "发措发布前，无此要求，造 成3/2接线方式的变电站，存在主变直接接在母线上的情况"
+      },
+      {
+        "id" : "l119",
+        "name" : "未在工程设计阶段落实",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布后，由于设计标准和反措存在差异，造成反措要求未在工程设计阶段落实。"
+      },
+      {
+        "id" : "l120",
+        "name" : "明确设备设计要求",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门在工程设计中明确“对3/2接线方式的变电站，当 变压器两台及以下时，不得将主变直接接在母线上，当变压器超过两 台时，其中两台进串，其他变压器可不进串，直接经断路器接母线” 的设计要求”的设计要求，同时修订变电站典型设计规范。"
+      },
+      {
+        "id" : "l121",
+        "name" : "维持现状",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "对于已投运的变压器整改困难时可维持现状"
+      },
+      {
+        "id" : "l122",
+        "name" : "储油柜",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l123",
+        "name" : "胶囊",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l124",
+        "name" : "隔膜",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l125",
+        "name" : "到期更换",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l126",
+        "name" : "降低系统运行可靠性",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l127",
+        "name" : "反措要求",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "对运行年限超过15年储油柜的胶囊 和隔膜应更换 “胶囊寿命应达到30年及以上”的要求"
+      },
+      {
+        "id" : "l128",
+        "name" : "取消反措要求",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运检部组织修改反措，取消“对运行年限超过15年储油柜的胶 囊和隔膜应更换”的反措要求，修改为“物资采购中要求胶囊寿命应 达到30年及以上使用寿命，对运行年限超过15年储油柜的胶囊和隔 膜，运维单位应结合停电检查密封性能和老化程度，如有老化、开裂 现象应及时更换”"
+      },
+      {
+        "id" : "l129",
+        "name" : "冷却系统电源",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l130",
+        "name" : "无三相电压监测",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l131",
+        "name" : "降低系统运行可靠性",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l132",
+        "name" : "反措理解有误",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "部分省公司对反措的理解不到位"
+      },
+      {
+        "id" : "l133",
+        "name" : "修改反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运检部组织修改反措，修改为“220kV及以上电压等级变压器冷 却系统的工作电源应有三相电压监测，任一相故障失电时，应保证自 动切换至备用电源供电”。"
+      },
+      {
+        "id" : "l134",
+        "name" : "压力释放阀",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l135",
+        "name" : "油流速动继电器",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l136",
+        "name" : "未加装防雨罩",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l137",
+        "name" : "变压器压力释放阀",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/0016.jpg",
+        "content" : "None"
+      },
+      {
+        "id" : "l138",
+        "name" : "变压器压力释放阀",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/0017.jpg",
+        "content" : "None"
+      },
+      {
+        "id" : "l139",
+        "name" : "受潮",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l140",
+        "name" : "加装防雨罩",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l141",
+        "name" : "油流压力无法释放",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l142",
+        "name" : "反措要求",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "变压器本体保护应加强防雨、防震措施,户外布置的压力释放阀、气体继电器和油流速动继电器应加装防雨罩"
+      },
+      {
+        "id" : "l143",
+        "name" : "修改反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运检部组织修改反措，取消“压力释放阀应安装防雨罩”的反措 要求，修改为“变压器本体保护应加强防雨、防震措施，户外布置的 气体继电器和油流速动继电器、温度计应加装防雨罩，压力释放阀应 采取带二次密封的接口，并在密封处采用涂防水密封胶的防雨措施。"
+      },
+      {
+        "id" : "l144",
+        "name" : "添加招标要求",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "对于气体继电器和油流速动继电器加装防雨罩的要求，物资部门应在设备采购阶段将该项要求纳入招标技术协议中，要求厂家在设备制造阶段落实"
+      },
+      {
+        "id" : "l145",
+        "name" : "设备验收",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l146",
+        "name" : "套管末屏",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l147",
+        "name" : "带电测量",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l148",
+        "name" : "末屏悬浮放电",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l149",
+        "name" : "套管爆炸",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l150",
+        "name" : "无检测仪器",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "变压器套管末屏的带电检测在《国网运检部关于印发变电设备带 电检测工作指导意见的通知》（运检一[2014] 108号）中并未有具体 的要求，且尚无成熟的仪器可以有效开展套管末屏带电检测工作。对于套管末屏接地电流的在线监测，也只能针对已改造并加装过在线监测装置的套管末屏进行。"
+      },
+      {
+        "id" : "l151",
+        "name" : "取消反措要求",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运检部组织修改反措，取消“在变压器投运时和运行中开展套管 末屏接地状况带电测量”的要求，修改为“每次拆接末屏后应检查末 屏接地状况，在变压器投运时和运行中，对已加装套管末屏接地电流 在线监测装置的变压器，监测套管末屏接地电流”"
+      },
+      {
+        "id" : "l152",
+        "name" : "电力电缆",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l153",
+        "name" : "同沟敷设",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l154",
+        "name" : "无有效防火措施",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l155",
+        "name" : "变电站全停",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l156",
+        "name" : "设计差异",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布前，由于土建与电气设计差异，设计中未对站用电低压电缆敷设沟道作单独区分，造成站用变低压电缆同沟敷设"
+      },
+      {
+        "id" : "l157",
+        "name" : "未及时排查隐患",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布后，施工单位未及时排查隐患，对同沟敷设电缆未采取有效防火隔离措施"
+      },
+      {
+        "id" : "l158",
+        "name" : "新设备验收",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门在工程设计中明确“不同站用变低压电缆不宜同沟 敷设，如同沟敷设应采取有效防火隔离措施”的设计要求；运维单位在新建变电站设计及验收阶段，严格验收"
+      },
+      {
+        "id" : "l159",
+        "name" : "停电整改",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位对于无需停电即可整改的要尽快整改，需停电才能整改的，向调控部门提出停电申请，结合停电对已同沟敷设的电缆采取涂刷防火涂料、加装防火槽盒、加装防火挡板及填充防火沙等措施。 建议优先整改220kV枢纽变电站和llOkV重要负荷的变电站"
+      },
+      {
+        "id" : "l160",
+        "name" : "未按要求分层敷设",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l161",
+        "name" : "烧毁重要电缆",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l162",
+        "name" : "无空间整改",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "因电缆沟道空间已占用，没有足够的改动空间进行整改"
+      },
+      {
+        "id" : "l163",
+        "name" : "修订反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门执行的《电力工程电缆设计规范》(GB50217-2007) 第5.1.3条中规定：“应按电压等级由高至低的电力电缆、强电至弱 电的控制和信号电缆、通讯电缆'由上而下’的顺序排列。当水平通 道中含有35kV以上高压电缆，或为满足引入柜盘的电缆符合允许弯 曲半径要求时，宜按'由下而上'的顺序排列。”反措要求“同一通 道内不同电压等级的电缆，应按照电压等级的高低从下向上排列，分 层敷设在电缆支架上”。对于反措与基建规范中电缆布置的差异，后续在修订反措时进行统一。"
+      },
+      {
+        "id" : "l164",
+        "name" : "维持现状",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位对于电缆沟道空间已占用，没有足够改动空间进行 整改的，建议维持现状不进行整改。"
+      },
+      {
+        "id" : "l165",
+        "name" : "低压电缆",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l166",
+        "name" : "非阻燃通讯光缆",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l167",
+        "name" : "采取有效防火隔离措施",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l168",
+        "name" : "直流电缆",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l169",
+        "name" : "动力电缆",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l170",
+        "name" : "未采用阻燃电缆",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l171",
+        "name" : "工程设计不佳",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布以前，工程设计没有要求一定要使用阻燃电缆，考虑到非阻燃电缆比阻燃电缆成本低，电缆沟中敷设的直流电缆和动力电缆都采用的是非阻燃电缆，不能起到防火隔离的作用。"
+      },
+      {
+        "id" : "l172",
+        "name" : "未及时整改",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "在反措发布后， 部分变电站没有及时整改完毕。"
+      },
+      {
+        "id" : "l173",
+        "name" : "新设备验收",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位在新建变电站设计及验收阶段，明确“电缆夹层、 电缆竖井、电缆沟中敷设的直流电缆和动力电缆均应选用阻燃电缆； 非阻燃电缆应包绕防火包带或涂防火涂料（涂刷应覆盖阻火墙两侧不 小于1米范围）”的设计要求。严格验收。"
+      },
+      {
+        "id" : "l174",
+        "name" : "防火隔离措施",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位组织对电缆沟中敷设的非阻燃电缆采用在电缆表面优先使用防火绕包带或涂刷防火涂料的办法，使其达到防火隔离的效果。"
+      },
+      {
+        "id" : "l175",
+        "name" : "蓄电池电缆",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l176",
+        "name" : "并排铺设",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l177",
+        "name" : "未加装防火墙",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l178",
+        "name" : "烧毁直流电缆",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l179",
+        "name" : "工程设计不佳",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "在反措发布以前，工程设计阶段没有设计敷设蓄电池电缆所需的 独立通道，并且没有考虑到火灾因素可能产生的后果，没在采取有效的防火措施。"
+      },
+      {
+        "id" : "l180",
+        "name" : "未及时整改",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "在反措发布后，部分变电站没有及时整改完毕。"
+      },
+      {
+        "id" : "l181",
+        "name" : "加装防火隔墙",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位组织对不符合要求的采取在蓄电池电缆之间加装防火隔墙，使其达到防火隔离的效果。"
+      },
+      {
+        "id" : "l182",
+        "name" : "未加穿金属套管",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l183",
+        "name" : "影响站内直流系统运行",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l184",
+        "name" : "工程设计不佳",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "在反措发布以前，工程设计时没有考虑蓄电池电缆在穿越电缆竖井时需要加穿金属套管。"
+      },
+      {
+        "id" : "l185",
+        "name" : "未及时整改",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "在反措发布后，部分变电站没有整改完毕， 需要逐步完成。"
+      },
+      {
+        "id" : "l186",
+        "name" : "加穿金属套管",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位组织对于穿越电缆竖井的蓄电池电缆加穿金属套管，逐步完成整改。对于运行的电缆竖井内没有加装金属套管空间的 蓄电池电缆，可以考虑采用涂刷防火涂料的方式进行整改。"
+      },
+      {
+        "id" : "l187",
+        "name" : "修改反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "建议将十六项防全停措施14.4.7“在穿越电缆竖井时，蓄 电池电缆应加穿金属套管”改为“在穿越电缆竖井时，蓄电池电缆宜用铠装电缆，未选用铠装电缆应加穿金属套管”"
+      },
+      {
+        "id" : "l188",
+        "name" : "户外金属电缆支架",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l189",
+        "name" : "电缆固定金具",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l190",
+        "name" : "未使用防盗螺栓",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l191",
+        "name" : "重要设施易遭盗窃",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l192",
+        "name" : "未严格执行反措",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "施工单位未严格执行反措，未采用防盗螺栓固定电缆支架、电缆"
+      },
+      {
+        "id" : "l193",
+        "name" : "明确设计要求",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门在工程设计中明确“电缆终端场站、隧道出入口、 重要区域的工井井盖应有安防措施，必要时加装在线监控装置。户外 金属电缆支架、电缆固定金具等应采用防松措施，地面以上8米范围 内采用防盗措施”的设计要求，运维单位在新建变电站设计及验收阶 段，严格验收。"
+      },
+      {
+        "id" : "l194",
+        "name" : "更换防盗螺栓",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位对于已建成变电站，开展专项治理，户外金属电缆支架、电缆固定金具等全部换为防盗螺栓。"
+      },
+      {
+        "id" : "l195",
+        "name" : "直埋电缆",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l196",
+        "name" : "水底电缆",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l197",
+        "name" : "未装设标识",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l198",
+        "name" : "电缆外力事故发生",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "l199",
+        "name" : "资料缺失",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "对于部分早期投运、运行时间较久的直埋电缆，由于存在资料缺失、人员变更等因素，难以准确掌握地下电缆路径，造成未装设标识。"
+      },
+      {
+        "id" : "l200",
+        "name" : "维持现状",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "对于部分早期投运、运行时间较久的直埋电缆，建议维持现状"
+      },
+      {
+        "id" : "l201",
+        "name" : "设立永久标识",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "对于当电缆故障、切改等需要确定电缆路径的情况时，运维单位使用电缆路径探测仪检测直埋高压电力电缆走径，设立永久标识，留存资料，以节省人力物力。"
+      },
+      {
+        "id" : "h1",
+        "name" : "交流断路器",
+        "introduction" : "允许交流电通过的断路器",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h2",
+        "name" : "弹簧机构断路器",
+        "introduction" : "利用已储能的弹簧为动力使断路器动作的操动机构",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h3",
+        "name" : "行程曲线测试问题",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "测试其行程曲线是否符合厂家标准曲线要求；对运行10年以上的弹簧机构可抽检其弹簧拉力，防止因弹簧疲劳，造成开关动作不正常"
+      },
+      {
+        "id" : "h4",
+        "name" : "弹簧性能下降",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "因为弹簧材质等原因产生的弹簧性能下降"
+      },
+      {
+        "id" : "h5",
+        "name" : "行程特性曲线难测量",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "行程特性曲线测量需安装原厂专用配套传感器，部分断路器传动机构空间较小，无厂家专用传感器无法进行现场测试"
+      },
+      {
+        "id" : "h6",
+        "name" : "规程无明确要求",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "GB 50150-2006《电气装置安装工程电气设备交接试验标准》没有此项要求，而Q/GDW 1168-2013《输变电设备状态检修试验规程》5. 8. 1.7 要求的为“在额定操作电压下测试时间特性，必要时，测量行程特性曲线做进一步分析均无此要求”"
+      },
+      {
+        "id" : "h7",
+        "name" : "安排问题",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "部分断路器难以安排停电计划"
+      },
+      {
+        "id" : "h8",
+        "name" : "明确要求",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "物资部门在物资采购合同中明确“断路器厂家需在每个工程 中提供至少一套与配套的行程特性曲线测试传感器，并提供该型断路 器标准曲线”的要求"
+      },
+      {
+        "id" : "h9",
+        "name" : "安排测试",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "对于已投运的断路器，调度部门及时协调安排停电计划，运 维单位对断路器进行机械特性行程曲线测试。"
+      },
+      {
+        "id" : "h10",
+        "name" : "修改反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "弹簧机构断路器应定期进行机械特性试验，测试其行程曲线是否符合厂家标准曲线要求；对运行10年以上的机构弹簧可抽检其拉力特性，防止因弹簧疲劳，造成开关动作不正常"
+      },
+      {
+        "id" : "h11",
+        "name" : "机构箱",
+        "introduction" : "转接施工线路",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h12",
+        "name" : "汇控箱",
+        "introduction" : "监控系统柜",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h13",
+        "name" : "驱潮装置不完善",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h14",
+        "name" : "机构箱内部受潮",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "加热和驱潮两者无法有效兼顾，夏季潮湿季节加热器不启动造成机构箱内部受潮"
+      },
+      {
+        "id" : "h15",
+        "name" : "加热驱潮装置无法起到作用",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "加热器由温湿度控制器控制，而 温湿度控制器在运行过程中容易损坏且不易发现"
+      },
+      {
+        "id" : "h16",
+        "name" : "未按照条文解释执行",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "部分厂家未按照条文解释执行，导致部分新投运设备仍沿用惯例，只配置一组温湿度控制加热器，不满足反措要求"
+      },
+      {
+        "id" : "h17",
+        "name" : "严格执行反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门在工程设计和确认图纸阶段严格执行反措，明确开关厂家及汇控柜厂家提供两种形式的加热器电源"
+      },
+      {
+        "id" : "h18",
+        "name" : "物资部明确采购",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "明确开关设备汇控箱内应设两种加热器电源：一种为驱潮防潮设计，小功率、长期投入，另一种为加热电 源，大功率、在温度低于设定值投入"
+      },
+      {
+        "id" : "h19",
+        "name" : "运检部修改反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "补充解释条文至反措正文，修改为“开 关设备汇控箱内应设两种加热器电源：一种为驱潮防潮设计，小功率、 长期投入，另一种为加热电源，大功率、在温度低于设定值投入”。 明确要求，便于督促厂家执行该项反措。"
+      },
+      {
+        "id" : "h20",
+        "name" : "密度继电器",
+        "introduction" : "电力系统中重要的保护和控制元件",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h21",
+        "name" : "断路器误报警或不报警",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "防止密度继电器动作值不准或偏离"
+      },
+      {
+        "id" : "h22",
+        "name" : "密度继电器三通阀",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/密度继电器三通阀.png",
+        "content" : "None"
+      },
+      {
+        "id" : "h23",
+        "name" : "反措发布前未有相应设计要求",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布前未有相应设计要求，造成部分制造厂的设备不能满足反措要求"
+      },
+      {
+        "id" : "h24",
+        "name" : "物资部明确采购",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "物资部门对断路器设备厂家提出明确要求，SF6断路器的密度继电器与断路器本体之间必须有可关断阀门，满足不拆卸校验密度继电器的要求"
+      },
+      {
+        "id" : "h25",
+        "name" : "运检部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维部门对于运行设备，针对三种情况采取不同整改措施。"
+      },
+      {
+        "id" : "h26",
+        "name" : "户外密度继电器",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h27",
+        "name" : "未安装防雨罩",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h28",
+        "name" : "密度继电器无防雨罩",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/密度继电器无防雨罩.png",
+        "content" : "None"
+      },
+      {
+        "id" : "h29",
+        "name" : "控制直流接地",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "因密度继电器接线部位进水而引发控制直流接地以及误动作的故障"
+      },
+      {
+        "id" : "h30",
+        "name" : "设备制造原因",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "早期断路器设备的密度继电器均未加装防雨罩，也未做强制要求，运行过程中出现故障的情况较少。"
+      },
+      {
+        "id" : "h31",
+        "name" : "物资部明确采购",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "物资部门严格要求各设备厂家尤其是合资厂家，新采购户外充SF6设备密度继电器必须加装防雨罩且防护要全面"
+      },
+      {
+        "id" : "h32",
+        "name" : "运检部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "对于运行设备，运检部门联系厂家或自行定做防雨罩，加快 改造力度，2018年底前全部完成"
+      },
+      {
+        "id" : "h33",
+        "name" : "底座未与本体处于同一环境温度位置",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h34",
+        "name" : "密度继电器误补偿",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "当断路器所处的温度下降时断路器内部气体压力降低，密度继电器仍按所处较高环境温度进行补偿，会造成误补偿而报警或闭锁动作，机构 箱内外温差越大，问题越突出。"
+      },
+      {
+        "id" : "h35",
+        "name" : "密度继电器安装在机构箱内",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/密度继电器安装在机构箱内.png",
+        "content" : "None"
+      },
+      {
+        "id" : "h36",
+        "name" : "过补偿",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "当断路器本体温度下降时，密度继电器会因过补偿的问题导致指示压力较实际值偏高，温差较小时影响小可以满足要求，温差大时表计误差较大。"
+      },
+      {
+        "id" : "h37",
+        "name" : "物资部明确采购",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "物资部门督导设备厂家尤其是合资厂家严格执行反措，必须将密度继电器置于与断路器本体同样的运行环境"
+      },
+      {
+        "id" : "h38",
+        "name" : "运检部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运检部门协调设备厂家对运行设备制定整改措施，满足不回收气体即可改造条件的，结合停电进行整改，对于需回收气体的，结 合设备解体大修或改造进行整改。"
+      },
+      {
+        "id" : "h39",
+        "name" : "二次回路",
+        "introduction" : "对一次设备的工况进行监测、控制、调节、保护的二次设备，按照一定的要求连接在一起构成电路",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h40",
+        "name" : "采用RC加速设计",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h41",
+        "name" : "分闸失败",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "因直流电缆压降或跳闸继电器触点压降过大而拒动的故障，导致分闸失败"
+      },
+      {
+        "id" : "h42",
+        "name" : "电阻烧毁",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "因直流电缆压降或跳闸继电器触点压降过大而拒动的故障，导致电阻烧毁"
+      },
+      {
+        "id" : "h43",
+        "name" : "断路器二次回路中的RC加速设计",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/断路器二次回路中的RC加速设计.png",
+        "content" : "None"
+      },
+      {
+        "id" : "h44",
+        "name" : "物资部明确采购",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "开关设备招标采购中严禁采用分合闸回路RC设计的产品。"
+      },
+      {
+        "id" : "h45",
+        "name" : "基建部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "在与厂家确认图纸过程中重点核对二次回路情况，杜绝采用RC加速设计。"
+      },
+      {
+        "id" : "h46",
+        "name" : "运维单位组织设备制造厂家研究",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位组织设备制造厂家研究，双方确认可以改造的前提下由设备厂家出具改造方案"
+      },
+      {
+        "id" : "h47",
+        "name" : "压力闭锁继电器",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h48",
+        "name" : "未实现双重化配置",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h49",
+        "name" : "保护不足",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "若第一组操作电源失去时，第二套保护和操作箱或智能终 端可能无法跳闸出口"
+      },
+      {
+        "id" : "h50",
+        "name" : "设计及设备制造原因",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布前，220kV及以上电 压等级的保护装置实现了双重化配置，但未对断路器压力闭锁回路提出相关要求，造成不满足反措要求，反措提出后，厂家产品需重新进行设计，造成部分厂家仍未及时整改。"
+      },
+      {
+        "id" : "h51",
+        "name" : "物资部明确采购",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "确保新招标的220kV及以上开关的压力闭锁继电器双重化配置。"
+      },
+      {
+        "id" : "h52",
+        "name" : "基建部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门在设备安装阶段核查整套回路，确保新投运设备满 足反措要求。"
+      },
+      {
+        "id" : "h53",
+        "name" : "断路器绝缘拉杆",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h54",
+        "name" : "防断裂拒动问题",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h55",
+        "name" : "缓冲器因液压油泄露而不起作用",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h56",
+        "name" : "仪器配置不全",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h57",
+        "name" : "物资部明确采购",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "物资部门在设备采购中避免采用具有“螺旋式”绝缘拉杆连 接结构的断路器。"
+      },
+      {
+        "id" : "h58",
+        "name" : "运检部统筹仪器仪表调配",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "对仪器缺乏的县公司配置仪器或由市公司统一测试，同时各单位务必将缓冲器检查纳入巡检及检修项目，确保检查测试到位。"
+      },
+      {
+        "id" : "h59",
+        "name" : "运检部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "调度部门及时安排停电，运维单位加快LW6系列等“螺旋式” 连接结构断路器的改造力度"
+      },
+      {
+        "id" : "h60",
+        "name" : "SF6",
+        "introduction" : "六氟化硫",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h61",
+        "name" : "纯度检测问题",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h62",
+        "name" : "质量参差不齐",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "SF6气体来源较多，质量参差不齐"
+      },
+      {
+        "id" : "h63",
+        "name" : "报告替代现场检测",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "早期部分省公司针对SF6气体纯度检测主要是以相关厂家的出厂试验报告替代现场检测，由省电科院负责抽检， 未在设备充气后进行纯度监测"
+      },
+      {
+        "id" : "h64",
+        "name" : "管控力度不足",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "部分省公司对交 接试验管控力度不足，基建工程按照交接试验规程进行，仅进行湿度监测而未进行纯度监测"
+      },
+      {
+        "id" : "h65",
+        "name" : "基建部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门对于新建工程严格执行反措，SF6气体充入后进行纯度抽检。"
+      },
+      {
+        "id" : "h66",
+        "name" : "运检部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维部门对于大修设备或进行SF6气体处理的设备，充入气体后也必须进行纯度检测，未进行检测不得投运。"
+      },
+      {
+        "id" : "h67",
+        "name" : "二次电缆金属护管",
+        "introduction" : "一层致密的阴极保护层",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h68",
+        "name" : "未良好焊接",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h69",
+        "name" : "继电保护误动或拒动",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "确保设备外壳可靠接地，防止继电保护误动或拒动"
+      },
+      {
+        "id" : "h70",
+        "name" : "遗留问题",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "该问题是安装施工阶段问题，遗留问题可在运行阶段进行整改， 大多发生在反措发布前。"
+      },
+      {
+        "id" : "h71",
+        "name" : "运检部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "若电缆护管已采取有效的接地手段，维持现状暂不进行整改。对于无法有效接地以及保护电缆的，逐步进行整改"
+      },
+      {
+        "id" : "h72",
+        "name" : "交流隔离开关",
+        "introduction" : "是发电厂和变电站电气系统中重要的开关电器，需与高压断路器配套使用。",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h73",
+        "name" : "同一间隔内的多台隔离开关共用一个电机电源空开问题",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h74",
+        "name" : "线路和母线隔离开关误动作",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "同一间隔内可能包括母线隔离开关和多条线路隔离开关，如果只有一个操作电源，可能在操作线路隔离开关时，由于误操作电源导致线路和母线隔离开关误动作。"
+      },
+      {
+        "id" : "h75",
+        "name" : "遗留问题",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "十八项反措发布前未有该项要求，由于设计原因，同一间隔内的多台隔离开关，一般在端子箱内设计一个电源 开关，未针对同间隔各隔离开关单独设置独立开关。"
+      },
+      {
+        "id" : "h76",
+        "name" : "基建部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门对于新、改、扩建变电站严格执行反措，同一间隔内的多台隔离开关在端子箱内必须分别设置独立的开断设备。"
+      },
+      {
+        "id" : "h77",
+        "name" : "运检部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位对已投运隔离开关如端子箱或机构箱内均无独立 空开，则结合停电检修进行二次回路整改，如机构箱内有独立空开， 能满足电机电源回路独立开断要求，则维持现状不整改。"
+      },
+      {
+        "id" : "h78",
+        "name" : "二次电缆",
+        "introduction" : "用于控制、信号传递和反馈的电缆",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h79",
+        "name" : "防护屏蔽接地问题",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h80",
+        "name" : "防止继电保护误动或拒动",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "确保设备外壳可靠接地，防止继电保护误动或拒动。"
+      },
+      {
+        "id" : "h81",
+        "name" : "遗留问题",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布前未有该反措要求，设备安装施工单位在施工过程 中采用了各自不同的做法。在反措发布后，由于隔离开关总量较多， 未全部完成整改。"
+      },
+      {
+        "id" : "h82",
+        "name" : "运检部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "对于电缆护管无法有效接地以及保护电缆的，运维单位逐步进行整改。"
+      },
+      {
+        "id" : "h83",
+        "name" : "部分为非完善化产品问题",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h84",
+        "name" : "零部件表面锈蚀",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h85",
+        "name" : "导电回路过热",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h86",
+        "name" : "操作失灵",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h87",
+        "name" : "设备故障频繁",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "现场运行中的非完善化隔离开关数量众多，整改工作尚未完成。"
+      },
+      {
+        "id" : "h88",
+        "name" : "物资部明确采购",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "物资部门对将《关于高压隔离开关订货的有关规定（试行）》 条款纳入物资采购标准。"
+      },
+      {
+        "id" : "h89",
+        "name" : "运维部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位针对不同情况采取不同整改措施。"
+      },
+      {
+        "id" : "h90",
+        "name" : "母线",
+        "introduction" : "多个设备以并列分支的形式接在其上的一条共用的通路。",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h91",
+        "name" : "检修超周期问题",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h92",
+        "name" : "检修机会较少",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "母线侧隔离开关由于需要母线停电才能进行全面检修，母线隔离开关停电检修机会较少，导致部分母线隔离开关始终无法检修或者由于停电时间短检修不到位，隔离开关常年不动，操作时发生卡涩拒动。"
+      },
+      {
+        "id" : "h93",
+        "name" : "检修不到位",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "停电检修时间也不满足检修工艺要求，造成大量隔离开关检修不到位。"
+      },
+      {
+        "id" : "h94",
+        "name" : "运维部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "调度部门及时安排停电，运维单位对达到检修周期的母线侧隔离 开关进行全面检修。"
+      },
+      {
+        "id" : "h95",
+        "name" : "厂内组装标记问题",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h96",
+        "name" : "隔离开关不能正常操作",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "若隔离开关厂家在厂内只对导电部分进行粗调，未对瓷瓶、传动部件进行组装并标记，遗漏组装工序，将导致现场安装过程中可能存在误差，隔离开关不能正常操作。"
+      },
+      {
+        "id" : "h97",
+        "name" : "设备制造和安装阶段问题",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "隔离开关到达现场后， 标示缺失；或者已运行的隔离开关现场标识不清楚或未做醒目标记。"
+      },
+      {
+        "id" : "h98",
+        "name" : "物资部明确采购",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h99",
+        "name" : "运检部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运检部门对已投运设备检修，若设备运行状况良好，维持现状。"
+      },
+      {
+        "id" : "h100",
+        "name" : "金属法兰与瓷件胶装部位",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h101",
+        "name" : "防水密封胶脱落",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h102",
+        "name" : "绝缘子损伤",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "绝缘子瓷件下法兰胶装处未按反措要求涂以性能良好的防水密封胶，由于下雨积水，造成金属件生锈、冬季积水结冰膨胀，可能造成绝缘子损伤"
+      },
+      {
+        "id" : "h103",
+        "name" : "设备制造和安装阶段问题",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "设备制造和安装时未按反措要求涂以性能良好的防水密封胶或必要时重新复涂防水密封胶"
+      },
+      {
+        "id" : "h104",
+        "name" : "设备长时间运行",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "设备长时间的运行，隔离开关绝缘子金属法兰与瓷件的胶装部位防水 密封胶存在一定程度的老化脱落。"
+      },
+      {
+        "id" : "h105",
+        "name" : "运维部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位对存在隔离开关法兰与瓷瓶间脱胶问题的设备按反措要求开展检修，消除隐患。"
+      },
+      {
+        "id" : "h106",
+        "name" : "导电回路电阻测试问题",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h107",
+        "name" : "触头发热故障",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "隔离开关导电回路电阻测试是反映隔离开关导电回路接触情况的重要手段，未按照反措要求进行导电回路电阻测试，将可能导致触头发热故障。"
+      },
+      {
+        "id" : "h108",
+        "name" : "检修机会较少",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布前基建单位因交接试验规程无相关要求，现场不开展隔离开关导电回路电阻测试。"
+      },
+      {
+        "id" : "h109",
+        "name" : "基建部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门对新、改、扩建变电站隔离开关严格按照反措要求, 在交接试验阶段，设备投运前开展负荷隔离开关回路电阻测试，测试 值应符合产品技术文件要求,35kV及以下电压等级开关柜内的隔离开 关可根据实际测试条件执行。"
+      },
+      {
+        "id" : "h110",
+        "name" : "运维部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位结合停电检修对在运隔离开关开展回路电阻测试， 同时运行中加强红外检测，确保无发热缺陷。"
+      },
+      {
+        "id" : "h111",
+        "name" : "电气闭锁回路采用重动继电器问题",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h112",
+        "name" : "辅助触点不能真实反映设备的实际情况",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "凡参与电气闭锁的断路器和隔离开关（包括接地开关）均不能使用重动继电器的触点，这样可以保证即使在变电间隔进行停电检修时，其断路器和隔离开关（包括接地开关）送出的用于闭锁逻辑判断的辅助触点能真实反映设备的实际情况。"
+      },
+      {
+        "id" : "h113",
+        "name" : "遗留问题",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "早期隔离开关二次回路设计不合理，电气闭锁回路采用了重动继电器。"
+      },
+      {
+        "id" : "h114",
+        "name" : "基建部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "建部门新、改、扩建变电站在设计时落实反措，对于断路器或隔离开关电气闭锁回路不使用重动继电器，应直接用断路器或隔离开关的辅助触点。"
+      },
+      {
+        "id" : "h115",
+        "name" : "运维部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "调度部门及时安排停电，运维单位对于已投运隔离开关电气 闭锁回路采用重动继电器的，结合停电检修开展二次回路改造，取消重动继电器。"
+      },
+      {
+        "id" : "h116",
+        "name" : "地刀",
+        "introduction" : "安装于高压开关柜内代替接地线的一种 安全连锁机构",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h117",
+        "name" : "隔离开关与所配地刀之间闭锁不可靠问题",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h118",
+        "name" : "误操作事故",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "可靠的机械闭锁包括强度的要求和配合精度的要求，这两方面任一不满足，都可能造成误操作事故。"
+      },
+      {
+        "id" : "h119",
+        "name" : "设备采购及制造问题",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "在设备采购及制造阶段，隔离开关本身机械闭锁不可靠，缺失闭锁功能或机械闭锁。"
+      },
+      {
+        "id" : "h120",
+        "name" : "操作次数过多",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "部分隔离开关机械闭锁在多次操作后发生机械移位、闭锁机构磨损、松动等故障，失去闭锁功能。"
+      },
+      {
+        "id" : "h121",
+        "name" : "物资部明确采购",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "物资部门在隔离开关采购严格落实反措要求“隔离开关与其所配装的接地开关间应配有可靠的机械闭锁，机械闭锁应有足够的强度”。"
+      },
+      {
+        "id" : "h122",
+        "name" : "运维部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "调度部门及时安排停电，运维单位对闭锁机构磨损、松动的隔离开关安排检修。"
+      },
+      {
+        "id" : "h123",
+        "name" : "隔离开关机械卡涩发热问题",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h124",
+        "name" : "机械卡涩后绝缘子断裂",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "隔离开关的运动部位应定期检查与润滑，否则有可能发生机械卡涩后绝缘子断裂等故障。"
+      },
+      {
+        "id" : "h125",
+        "name" : "未润滑",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "产生该类问题的主要原因隔离开关制造和安装过程中未对运动部位涂用性能良好的二硫化铝锂基润滑脂导致卡涩。"
+      },
+      {
+        "id" : "h126",
+        "name" : "运维部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位对于在运设备，加强对隔离开关导电部分、转动部分、操动机构、瓷绝缘子等的检查"
+      },
+      {
+        "id" : "h127",
+        "name" : "直流系统",
+        "introduction" : "是一个独立的电源，它不受发电机、厂用电及系统运行方式的影响，并在外部交流电中断的情况下，保证由后备电源—蓄电池继续提供直流电源的重要设备。",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h128",
+        "name" : "供电方式问题",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h129",
+        "name" : "环网短路",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "如直流系统馈出网络未采用辐射状供电方式，而采用环状供电方式，易产生直流系统互相干扰，一旦出现短路，造成整个环网短路"
+      },
+      {
+        "id" : "h130",
+        "name" : "遗留问题",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "投运较早的变电站由于设计理念落后，早期部分变电站直流供电 方式设计成环状供电方式，直流系统对负载供电采用小母线供电方式。"
+      },
+      {
+        "id" : "h131",
+        "name" : "基建部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门在工程设计中明确设计要求"
+      },
+      {
+        "id" : "h132",
+        "name" : "运维部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位对于不满足要求的变电站，结合停电计划，通过增 加分电屏、直流空开等方式进行改造。"
+      },
+      {
+        "id" : "h133",
+        "name" : "修订反措条款",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "修改为：“直流系统对负载供电，66kV 及以上应按电压等级设置分电屏供电方式，不应采用直流小母线供电方式。直流系统的馈出网络应采用辐射状供电方式，严禁采用环状供电方式。35kV及以下开关柜每段母线采用辐射供电方式，即在每段柜顶设置一组直流小母线，每组直流小母线由一路直流馈线供电，开关柜配电装置由柜顶直流小母线供电”"
+      },
+      {
+        "id" : "h134",
+        "name" : "未采用专用直流断路器问题",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h135",
+        "name" : "直流系统全停",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "在出现短路时，由于交流断路器开断直流短路电流的能力不足，会出现断路器无法灭弧或灭弧时间过长等情况，极易造成故障扩大化，直流设备损坏甚至直流系统全停等风险。"
+      },
+      {
+        "id" : "h136",
+        "name" : "遗留问题",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "由于设计原因，当时所能使用的直流断路器容量不足， 因此设计时基本采用交直流两用或交流断路器。"
+      },
+      {
+        "id" : "h137",
+        "name" : "基建部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位在新投变电站直流系统验收过程中，严格督查直流系统断路器使用的反措落实。"
+      },
+      {
+        "id" : "h138",
+        "name" : "运维部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位对于不满足要求的变电站，结合停电计划，对直流系统改造。"
+      },
+      {
+        "id" : "h139",
+        "name" : "未使用阻燃电缆及敷设不规范问题",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h140",
+        "name" : "电线1",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/电线1.png",
+        "content" : "None"
+      },
+      {
+        "id" : "h141",
+        "name" : "直流系统全停",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "一旦发生一条电缆起火故障，有可能波及到其他直 流电缆同时发生起火，甚至造成全站直流失电的风险。"
+      },
+      {
+        "id" : "h142",
+        "name" : "反措发布前未有相应设计要求",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "措发布前，工程设计中未明确电缆类型和敷设相关要求，造成部分变电站直流系统电缆采用非阻燃电缆"
+      },
+      {
+        "id" : "h143",
+        "name" : "基建部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门在工程设计中明确“直流系统的电缆应采用阻燃电缆，两组蓄电池的电缆应分别铺设在各自独立的通道内，在穿越电缆竖井时，两组蓄电池电缆应加穿金属套管”的设计要求。"
+      },
+      {
+        "id" : "h144",
+        "name" : "运维部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位对于不满足要求的变电站，结合停电计划，将非阻燃电缆更换为阻燃电缆，对不满足要求的蓄电池电缆，通过涂刷防火涂料、加装防火墙、防火槽盒及防火沙等进行改造。"
+      },
+      {
+        "id" : "h145",
+        "name" : "绝缘监测装置",
+        "introduction" : "用来监测IT系统（不接地系统）对地的绝缘状况，在系统出现绝缘故障时及时报警，以提醒电气维护人员对故障进行排查。",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h146",
+        "name" : "不具备交流窜直流报警功能问题",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h147",
+        "name" : "继电保护装置误动",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h148",
+        "name" : "开关误跳闸事故",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h149",
+        "name" : "反措发布前未有相应设计要求",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "此条款于2012年发布，反措发布时各主要直流系统厂家均不具备实现交流串入检测、选线、记录的技术，直至2013年前后方陆续出现相关产品，因此投运较早变电站均不满足要求。"
+      },
+      {
+        "id" : "h150",
+        "name" : "基建部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门在工程设计中明确“新建或改造的变电所，直流系统绝缘监测装置，应具备交流窜直流故障的测记和报警功能”的设计要求。"
+      },
+      {
+        "id" : "h151",
+        "name" : "运维部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位对于不满足要求的变电站，结合停电计划，升级原 有绝缘监测装置、更换新型绝缘监测装置、在直流母线处加装交流混入检测模块等措施，实现变电站交窜直故障测记和报警功能改造。"
+      },
+      {
+        "id" : "h152",
+        "name" : "蓄电池出口熔断器",
+        "introduction" : "适用于发电机输出、蓄电池输出端保护",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h153",
+        "name" : "未配置告警接点问题",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h154",
+        "name" : "直流系统全停",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "如熔断器熔断未能及时恢复，一旦交流失电，将造成直流系统失电，导致事故扩大甚至全站停电."
+      },
+      {
+        "id" : "h155",
+        "name" : "反措发布前未有相应设计要求",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h156",
+        "name" : "基建部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门在工程设计中明确“蓄电池组总出口熔断器应配置 熔断告警接点，信号应可靠上传至调控部门”的设计要求。"
+      },
+      {
+        "id" : "h157",
+        "name" : "运维部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位对于不满足要求的变电站，结合停电计划，增加或扩展蓄电池组总熔断器告警硬接点，并将信号上传至调度部门。"
+      },
+      {
+        "id" : "h158",
+        "name" : "蓄电池室",
+        "introduction" : "安置蓄电池的舱室",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h159",
+        "name" : "运行环境配置问题",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h160",
+        "name" : "易造成爆炸的风险",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "蓄电池在运行过程中会排出氢气等易燃易爆气体，如产生电火花，易造成爆炸的风险。"
+      },
+      {
+        "id" : "h161",
+        "name" : "反措发布前未有相应设计要求",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布前，变电站蓄电池室消防设计执行《电力设备典型消防 规程》要求：“蓄电池室应使用防爆型照明和防爆型排风机”，与反措要求存在差异，所以在设计时蓄电池室的空调未采用防爆空调。"
+      },
+      {
+        "id" : "h162",
+        "name" : "基建部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门在工程设计中明确“蓄电池室应装有通风装置，通 风道应单独设置的设计要求"
+      },
+      {
+        "id" : "h163",
+        "name" : "运维部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位将不符合要求的变电站蓄电池室照明、排风机及空调，统一更换为防爆型。"
+      },
+      {
+        "id" : "h164",
+        "name" : "直流电源充电机",
+        "introduction" : "采用了功能完善的电源IC，并由数字逻辑电路进行实行采样控制，自动检测所充蓄电池的状态。",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h165",
+        "name" : "未按要求配置问题",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h166",
+        "name" : "造成不可靠性",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "当其中一台充电、浮充电装置出现故障或检修时，如另一台充电、浮充电装置也出现故障，将出现没有充电装置运行的情况，给直流系统的可靠性带来极大隐患。"
+      },
+      {
+        "id" : "h167",
+        "name" : "反措发布前未有相应设计要求",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "由于设计原因，部分重要的220kV变电站未设置三台充电、浮充电装置，两组蓄电池组的供电方式，未考虑冗余配置，不满足要求。"
+      },
+      {
+        "id" : "h168",
+        "name" : "基建部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门在工程设计阶段严格落实“变电站直流系统配置应充分考虑设备检修时的冗余要求。"
+      },
+      {
+        "id" : "h169",
+        "name" : "运维部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位对不满足要求的330kV及以上电压等级以及重要的220kV变电站，要尽快改造为“两电三充”供电方式，改造前配置移动应急充电装置，确保故障后迅速恢复。"
+      },
+      {
+        "id" : "h170",
+        "name" : "蓄电池",
+        "introduction" : "将化学能直接转化成电能的一种 装置",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h171",
+        "name" : "安装在同一室内且未加装防火隔墙",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h172",
+        "name" : "直流系统全停",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "多组蓄电池安装在同一蓄电池室内且蓄电池组间未设置防火隔墙，易导致在其中一组蓄电池故障发生火灾时造成故障扩大，严重时失去全站直流电源。"
+      },
+      {
+        "id" : "h173",
+        "name" : "反措发布前未有相应设计要求",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布前设计的变电站，存在多组蓄电池未独立安装在不同的蓄电池室内问题，多组蓄电池组屏、支架、平台安装于同一蓄电池室。"
+      },
+      {
+        "id" : "h174",
+        "name" : "基建部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门在设计阶段要严格执行“多组蓄电池应独立安装在 不同的蓄电池室内或者在不同蓄电池组间设置防火隔墙”反措要求。"
+      },
+      {
+        "id" : "h175",
+        "name" : "运维部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位对变电站直流蓄电池室蓄电池现场布置进行排查"
+      },
+      {
+        "id" : "h176",
+        "name" : "不间断电源",
+        "introduction" : "当正常交流供电中断时，将蓄电池输出的直流变换成交流持续供电的电源设备。",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h177",
+        "name" : "供电可靠性的问题",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h178",
+        "name" : "运行可靠性降低",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "不间断电源系统交流供电电源如未采用两路来自不同电源点供电时，一旦一路交流电源停电，将造成不间断电源系统失去交流电源, 造成其运行可靠性降低。"
+      },
+      {
+        "id" : "h179",
+        "name" : "反措执行不严格",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "由于设计阶段反措执行不严格，造成不间断电源系统交流供电电源只有一路电源点供电。"
+      },
+      {
+        "id" : "h180",
+        "name" : "基建部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门对于新建变电站，在设计中明确“不间断电源系统交流供电电源应采用两路来自不同电源点供电”的反措要求。"
+      },
+      {
+        "id" : "h181",
+        "name" : "运维部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位对不满足要求的不间断电源增加一路交流电源，对于不支持双电源接入的不间断电源系统，安排升级更换."
+      },
+      {
+        "id" : "h182",
+        "name" : "交直流",
+        "introduction" : "交流和直流",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h183",
+        "name" : "混接问题",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "h184",
+        "name" : "保护误动",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "当端子箱、机构箱、智能控制柜内的交、直流接线接在同一段端子排上时，如出现漏水、受潮及绝缘降低等情况时，极易出现交流窜入直流回路的缺陷，导致保护误动等故障。"
+      },
+      {
+        "id" : "h185",
+        "name" : "反措发布前未有相应设计要求",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布前，工程设计中的标准与反措要求不一致，变电站现场安装端子箱、机构箱、智能控制柜时未将交、直流分接不同端子排。"
+      },
+      {
+        "id" : "h186",
+        "name" : "基建部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门在设计阶段要求设计单位执行“安装时不得将变电站现场端子箱、机构箱、智能控制柜内的交、直流接线接在同一段端子排上”的反措要求进行设计。"
+      },
+      {
+        "id" : "h187",
+        "name" : "运维部明确反措",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位对于不满足要求的变电站，结合停电计划，对现场已安装端子箱、机构箱、智能控制柜内交直流混用的端子排进行改造, 彻底将交直流回路分开，如不具备改造条件应采用增设隔板的方式进行隔离。"
+      },
+      {
+        "id" : "w1",
+        "name" : "交流电压互感器",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w2",
+        "name" : "互感器",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w3",
+        "name" : "局部放电",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w4",
+        "name" : "劣化甚至出现击穿",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w5",
+        "name" : "反措落实不当",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措与国家标准 存在差异，导致该条款在出厂和现场未得到有效贯彻落实。在后期运维阶段已经无法重新试验，导致该问题普遍存在。反措发布前，电压互感器制造时无此项反措要求；反措发布后，采购技术标准未体现该要求，造成反措未得到落实。"
+      },
+      {
+        "id" : "w6",
+        "name" : "局放试验测量时间延长",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "明确要求 互感器局放测量时间为5min。"
+      },
+      {
+        "id" : "w7",
+        "name" : "修订规范",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "物资部门按照反措要求修订相应的物资采购规范。"
+      },
+      {
+        "id" : "w8",
+        "name" : "加强设备监造",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "物资部门加强设备出厂设备监造关键点见证，按反措要求开展局放试验。"
+      },
+      {
+        "id" : "w9",
+        "name" : "二次引入线",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "指自开关场电压互感器二次的四根引入线。"
+      },
+      {
+        "id" : "w10",
+        "name" : "未使用各自独立的电缆",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w11",
+        "name" : "电压互感器二次接线柜",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/w001.png",
+        "content" : "电圧互感器：次绕组四根引入线和电互感器开口三角绕组的两根引入线均未使用各H独立。"
+      },
+      {
+        "id" : "w12",
+        "name" : "事故跳闸",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "例如某变电站电压互感器电缆绝缘老化，开口三角与二次绕组电缆混接，造成该母线主电压互感器零序保护动作，主变三侧跳闸。"
+      },
+      {
+        "id" : "w13",
+        "name" : "无反措要求",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布前没有此项要求，多数变电站使用多芯电缆。"
+      },
+      {
+        "id" : "w14",
+        "name" : "停电时间影响",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措发布后主要因为电压互感器技改更换时，受停电时间影响，二次电缆没有动。电压互感器二次的四根引入线和电压互感器开口三角绕组的两根引入线未使用各自独立的电缆，与其他电缆混用。"
+      },
+      {
+        "id" : "w15",
+        "name" : "维持现状",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "对于保护装置未引入电压互感器开口三角绕组电压的情况，建议维持现状不整改。"
+      },
+      {
+        "id" : "w16",
+        "name" : "专项整改",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "对于保护装置引入电压互感器开口三角绕组电压的情况，列专项整改计划，由调度部门及时安排停电，运维单位对电压互感器二次引入线重新敷设安装独立电缆，严格按反措要求执行。"
+      },
+      {
+        "id" : "w17",
+        "name" : "电磁式电压互感器",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w18",
+        "name" : "铁心元件",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w19",
+        "name" : "空载",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "电磁式电压互感器的工作状态接近于空载，对其抗饱和能力和精度都有一定的要求。"
+      },
+      {
+        "id" : "w20",
+        "name" : "铁磁谐振过电压",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "过电压轻则使电压 互感器一次熔断器熔断，重则烧毁电压互感器，甚至炸毁瓷绝缘子及避雷器造成系统停运。"
+      },
+      {
+        "id" : "w21",
+        "name" : "互感器饱和",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "中性点非直接接地系统发生由于电磁式电压互感器饱和产生铁磁谐振过电压。"
+      },
+      {
+        "id" : "w22",
+        "name" : "投资成本",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "选用励磁特性饱和点较高的电磁式电压互感器可以治理缺陷，但是较贵一些，为了降低投资成本，一般采购时未选用该类厂品。"
+      },
+      {
+        "id" : "w23",
+        "name" : "明确采用要求",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门在设计和设备选型时，明确要求采用励磁特性饱和点较高的电磁式电压互感器或直接选用电容式电压互感器。"
+      },
+      {
+        "id" : "w24",
+        "name" : "开展试验",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位现场交接时按反措要求开展试验，对不具备试验能力的单位配备相应试验设备。"
+      },
+      {
+        "id" : "w25",
+        "name" : "油浸式互感器",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w26",
+        "name" : "储油柜",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w27",
+        "name" : "加装隔膜或胶囊",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w28",
+        "name" : "绝缘破坏",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "绝缘油因随天气变化产生热胀冷缩，吸收空气中水分储存在隔膜或胶囊内，随着时间变化胶囊内的水分会渗入到电压互感器油内，造成绝缘破坏，影响设备正常运行。"
+      },
+      {
+        "id" : "w29",
+        "name" : "工程设计",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "对油浸式互感器是否采用带金属膨胀器微正压结构型式没有强制要求。"
+      },
+      {
+        "id" : "w30",
+        "name" : "物资采购",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "物资采购未严格落实反措要求。"
+      },
+      {
+        "id" : "w31",
+        "name" : "修订规范",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "物资部门按照反措要求修订相应的物资采购规范。"
+      },
+      {
+        "id" : "w32",
+        "name" : "明确设计",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "基建部门在设计时，明确油浸式互感器采用带金属膨胀器微正压结构型式。"
+      },
+      {
+        "id" : "w33",
+        "name" : "排检整改",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "对已投运设备，运维单位合理安排检修计划进行整改。"
+      },
+      {
+        "id" : "w34",
+        "name" : "二次回路",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w35",
+        "name" : "接地规范性",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w36",
+        "name" : "绝缘击穿",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "如果电压互感器的一、二次绕组间出现绝缘击穿，一次侧的高电 压将直接进入二次侧绕组，危及人身和设备安全。"
+      },
+      {
+        "id" : "w37",
+        "name" : "工程设计",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "设计时未充分考虑且早期设计无相关要求导致。在工程设计阶段，未设计电压互感器二次线圈中性点接地放电间隙或氧化锌阀片。"
+      },
+      {
+        "id" : "w38",
+        "name" : "排检整改",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "对已投运设备，调度部门及时安排停电，运维单位进行整改。"
+      },
+      {
+        "id" : "w39",
+        "name" : "明确设计",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "对于新建站或改造站，基建部门修改设计规范，加装中性点接地放电间隙或氧化锌阀片。"
+      },
+      {
+        "id" : "w40",
+        "name" : "漏油",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w41",
+        "name" : "水分进入",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "渗漏油的互感器可能会导致外界水分的进入，引发事故。"
+      },
+      {
+        "id" : "w42",
+        "name" : "安装位置",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "部分电压互感器安装位置太高，正常目视无法看清油位指示。"
+      },
+      {
+        "id" : "w43",
+        "name" : "红外测温",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "对于无观察窗的通过红外测温等方式估测油位。"
+      },
+      {
+        "id" : "w44",
+        "name" : "加强巡视",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "对于有观察窗电压互感器定期巡视并做好记录。"
+      },
+      {
+        "id" : "w45",
+        "name" : "电容式电压互感器",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w46",
+        "name" : "中压变压器",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w47",
+        "name" : "高压侧装设 MOA",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w48",
+        "name" : "失压现象",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "无法保 证残压是否合适，MOA击穿后，造成二次失压现象。"
+      },
+      {
+        "id" : "w49",
+        "name" : "铁磁谐振",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "避雷器失效后，造成电压互感器内部发生铁磁谐振现象。"
+      },
+      {
+        "id" : "w50",
+        "name" : "设计失误",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "设计时未充分考虑且早期设计无相关要求导致。"
+      },
+      {
+        "id" : "w51",
+        "name" : "排检整改",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位对于已在高压侧装设MOA的电容式电压互感器，建议结合停电检修时进行互感器更换，采用阻尼回路，在源头上防止谐振过电压的产生。"
+      },
+      {
+        "id" : "w52",
+        "name" : "明确设计",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "物资部门对于新装设的电容式电压互感器，应修订设备采购技术规范，并向厂家明确提出此类要求。"
+      },
+      {
+        "id" : "w53",
+        "name" : "电流互感器",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w54",
+        "name" : "互感器",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w55",
+        "name" : "局部放电",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w56",
+        "name" : "劣化甚至出现击穿",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w57",
+        "name" : "反措落实不当",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "反措与国家标准 存在差异，导致该条款在出厂和现场未得到有效贯彻落实。在后期运维阶段已经无法重新试验，导致该问题普遍存在。反措发布前，电压互感器制造时无此项反措要求；反措发布后，采购技术标准未体现该要求，造成反措未得到落实。"
+      },
+      {
+        "id" : "w58",
+        "name" : "局放试验测量时间延长",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "明确要求 互感器局放测量时间为5min。"
+      },
+      {
+        "id" : "w59",
+        "name" : "安放运输",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w60",
+        "name" : "设备故障",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w61",
+        "name" : "设备爆炸",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w62",
+        "name" : "运输环节",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "运输中收到强烈冲撞有关，设备采购标准中未提出运输环节要求。"
+      },
+      {
+        "id" : "w63",
+        "name" : "运输管理",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "物资部门应加强对互感器运输过程的管理，在招标技术规范中对 运输管控措施予以明确。"
+      },
+      {
+        "id" : "w64",
+        "name" : "耐压试验",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w65",
+        "name" : "考察隐患",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "外施耐压试验考核设备的主绝缘强度，以保证其绝缘强度符合要求，判断设备是否存在隐患。"
+      },
+      {
+        "id" : "w66",
+        "name" : "静置时间不足",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "油浸式电流互感器交流耐压试验的静置时间要求，以保证耐压试验时不会因为设备内部的气泡造成局部放电而对设备绝缘造成损坏。"
+      },
+      {
+        "id" : "w67",
+        "name" : "溶解气体分析",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "耐压试验前后进行油中溶解气体分析，以判断设备是否存在隐患。"
+      },
+      {
+        "id" : "w68",
+        "name" : "修订规范",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "按照反措要求修订相应的现场交接试验规程等标准，严格保证耐压试验前后静置工艺时间。"
+      },
+      {
+        "id" : "w69",
+        "name" : "提供设备",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "对不具备试验能力的单位配备相应试验设备，保证基层单位按照反措开展相关试验项目。"
+      },
+      {
+        "id" : "w70",
+        "name" : "热故障",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w71",
+        "name" : "设备损坏",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "变电设备在运行中，由于设备热故障，可能造成设备局部过热或温度异常，引起设备损坏"
+      },
+      {
+        "id" : "w72",
+        "name" : "测温工作",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "运维单位重视程度存在差异，且红外检测设备配置成本较高，导致红外测温及典型图谱存档工作普及度不高。"
+      },
+      {
+        "id" : "w73",
+        "name" : "红外检测",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位应重视红外测温及各阶段典型图谱存档工作，对于尚未 配置红外检测设备的单位应尽快配置齐全，落实反措要求。"
+      },
+      {
+        "id" : "w74",
+        "name" : "出厂漏检",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w75",
+        "name" : "局部放电",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w76",
+        "name" : "制造验收不合格",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "该问题主要是该问题主要是由于制造厂未严格执行国网设备采购标准，建设、运维单位也未在到货验收、工程验收环节严格把关。"
+      },
+      {
+        "id" : "w77",
+        "name" : "工程验收",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "物资部门牵头按照反措要求修订相应的物资采购规范，规定出厂试验时各项试验包括局部放电试验和耐压试验必须逐台进行。建设、 运维单位在到货验收、工程验收环节对试验报告严格把关。"
+      },
+      {
+        "id" : "w78",
+        "name" : "一次直阻差异",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "出厂值和设计值差异。"
+      },
+      {
+        "id" : "w79",
+        "name" : "局部过热",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w80",
+        "name" : "绝缘介质劣化",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w81",
+        "name" : "工艺问题",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "厂家早期制造调试不规范，设备出厂及交接验收时资料管理不规范，导致上述条款进行排查无依据可查。"
+      },
+      {
+        "id" : "w82",
+        "name" : "加强验收",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "新建变电站及间隔时，基建部门应加强验收规范性、 资料收集及管理。"
+      },
+      {
+        "id" : "w83",
+        "name" : "避雷器",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w84",
+        "name" : "电阻片",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w85",
+        "name" : "电阻片劣化",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w86",
+        "name" : "电阻片受潮",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w87",
+        "name" : "避雷器",
+        "introduction" : "None",
+        "classof" : 3,
+        "imgsrc" : "imgs/w002.png",
+        "content" : "None"
+      },
+      {
+        "id" : "w88",
+        "name" : "设备故障",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w89",
+        "name" : "测试不足",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "部分公司35千伏避雷器现场不具备带电检测条件，未进行泄漏电流测试；部分公司因500千伏设备停电难度较大，超过5年未进行500千伏金属氧化物避雷器停电试验。"
+      },
+      {
+        "id" : "w90",
+        "name" : "停电测试",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "对于500千伏及以上电压等级避雷器， 各省检修公司应制定停电计划，每3-5年对500千伏及以上电压等级 金属氧化物避雷器进行一次停电试验。"
+      },
+      {
+        "id" : "w91",
+        "name" : "带电检测",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "对于除开关柜及无功设备网门内的35千伏及以 下电压等级避雷器，结合停电计划，对避雷器接地引下线进行改造， 或采取加装绝缘隔板等措施，确保35千伏及以下电压等级避雷器有足够的距离进行带电检测试。"
+      },
+      {
+        "id" : "w92",
+        "name" : "雷雨季节",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w93",
+        "name" : "全电流和阻性电流测试",
+        "introduction" : "None",
+        "classof" : 6,
+        "imgsrc" : "None",
+        "content" : "运维单位采购带电检测仪器，按照要求在雷雨季节前进行避雷器全电流和阻性电流测试。"
+      },
+      {
+        "id" : "w94",
+        "name" : "敞开式变电站",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w95",
+        "name" : "进出线间隔入口",
+        "introduction" : "None",
+        "classof" : 1,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w96",
+        "name" : "出线遭受雷击",
+        "introduction" : "None",
+        "classof" : 2,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w97",
+        "name" : "绝缘损坏",
+        "introduction" : "None",
+        "classof" : 4,
+        "imgsrc" : "None",
+        "content" : "None"
+      },
+      {
+        "id" : "w98",
+        "name" : "全反射过电压",
+        "introduction" : "None",
+        "classof" : 5,
+        "imgsrc" : "None",
+        "content" : "在开关断开时，雷电侵入波在断 口处发生全反射过电压，会对绝缘造成损坏。"
+      },
+      {
+        "id": "w99",
+        "name": "金属氧化物避雷器",
+        "introduction": "None",
+        "classof": 6,
+        "imgsrc": "None",
+        "content": "在110~220 千伏进出线间隔入口处装设金属氧化物避雷器。"
+      },
+      {
+        "id": "z1",
+        "name": "交流变压器",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z001.jpg"
+      },
+      {
+        "id": "z2",
+        "name": "低压母线",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z002.jpg"
+      },
+      {
+        "id": "z3",
+        "name": "气体继电器",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z003.jpg"
+      },
+      {
+        "id": "z4",
+        "name": "铁心",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z004.jpg"
+      },
+      {
+        "id": "z5",
+        "name": "变压器绕组",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z005.jpg"
+      },
+      {
+        "id": "z6",
+        "name": "变压器中性点",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z006.jpg"
+      },
+      {
+        "id": "z7",
+        "name": "变压器储油柜",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z007.jpg"
+      },
+      {
+        "id": "z8",
+        "name": "储油柜胶囊",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z008.jpg"
+      },
+      {
+        "id": "z9",
+        "name": "储油柜隔膜",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z009.jpg"
+      },
+      {
+        "id": "z10",
+        "name": "变压器冷却系统",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z010.jpg"
+      },
+      {
+        "id": "z11",
+        "name": "油流速动继电器",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z011.jpg"
+      },
+      {
+        "id": "z12",
+        "name": "变压器套管末屏",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z012.jpg"
+      },
+      {
+        "id": "z13",
+        "name": "低压电缆",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z013.jpg"
+      },
+      {
+        "id": "z14",
+        "name": "非阻燃通讯光缆",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z014.jpg"
+      },
+      {
+        "id": "z15",
+        "name": "直流电缆",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z015.jpg"
+      },
+      {
+        "id": "z16",
+        "name": "动力电缆",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z016.jpg"
+      },
+      {
+        "id": "z17",
+        "name": "蓄电池电缆",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z017.jpg"
+      },
+      {
+        "id": "z18",
+        "name": "户外金属电缆支架",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z018.jpg"
+      },
+      {
+        "id": "z19",
+        "name": "电缆固定金具",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z019.jpg"
+      },
+      {
+        "id": "z20",
+        "name": "直埋电缆",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z020.jpg"
+      },
+      {
+        "id": "z21",
+        "name": "水底电缆",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z021.jpg"
+      },
+      {
+        "id": "z22",
+        "name": "交流断路器",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z022.jpg"
+      },
+      {
+        "id": "z23",
+        "name": "弹簧机构断路器",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z023.jpg"
+      },
+      {
+        "id": "z24",
+        "name": "机构箱/汇控箱",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z024.jpg"
+      },
+      {
+        "id": "z25",
+        "name": "密度继电器",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z025.jpg"
+      },
+      {
+        "id": "z26",
+        "name": "密度继电器",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z026.jpg"
+      },
+      {
+        "id": "z27",
+        "name": "压力闭锁继电器",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z027.jpg"
+      },
+      {
+        "id": "z28",
+        "name": "断路器绝缘拉杆",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z028.jpg"
+      },
+      {
+        "id": "z29",
+        "name": "电缆金属护管",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z029.jpg"
+      },
+      {
+        "id": "z30",
+        "name": "交流隔离开关",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z030.jpg"
+      },
+      {
+        "id": "z31",
+        "name": "变压器母线",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z031.jpg"
+      },
+      {
+        "id": "z32",
+        "name": "金属法兰",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z032.jpg"
+      },
+      {
+        "id": "z33",
+        "name": "地刀",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z033.jpg"
+      },
+      {
+        "id": "z34",
+        "name": "蓄电池出口熔断器",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z034.jpg"
+      },
+      {
+        "id": "z35",
+        "name": "蓄电池室",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z035.jpg"
+      },
+      {
+        "id": "z36",
+        "name": "直流电源充电机",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z036.jpg"
+      },
+      {
+        "id": "z37",
+        "name": "电压互感器",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z037.jpg"
+      },
+      {
+        "id": "z38",
+        "name": "电磁式电压互感器",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z038.jpg"
+      },
+      {
+        "id": "z39",
+        "name": "油浸式电压互感器",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z039.jpg"
+      },
+      {
+        "id": "z40",
+        "name": "电容式电压互感器",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z040.jpg"
+      },
+      {
+        "id": "z41",
+        "name": "避雷器",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z041.jpg"
+      },
+      {
+        "id": "z42",
+        "name": "避雷器电阻片",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z042.jpg"
+      },
+      {
+        "id": "z43",
+        "name": "户外敞开式变电站",
+        "introduction": "",
+        "classof": 3,
+        "imgsrc": "imgs/z043.jpg"
+      }
+  ],
+  "links": [
+      {
+        "source" : "l1",
+        "target" : "l2",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l2",
+        "target" : "l3",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l3",
+        "target" : "l4",
+        "name" : "危害"
+      },
+      {
+        "source" : "l3",
+        "target" : "l5",
+        "name" : "图片"
+      },
+      {
+        "source" : "l6",
+        "target" : "l3",
+        "name" : "引起"
+      },
+      {
+        "source" : "l7",
+        "target" : "l3",
+        "name" : "引起"
+      },
+      {
+        "source" : "l8",
+        "target" : "l3",
+        "name" : "引起"
+      },
+      {
+        "source" : "l3",
+        "target" : "l9",
+        "name" : "措施"
+      },
+      {
+        "source" : "l3",
+        "target" : "l10",
+        "name" : "措施"
+      },
+      {
+        "source" : "l1",
+        "target" : "l11",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l11",
+        "target" : "l12",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l12",
+        "target" : "l13",
+        "name" : "图片"
+      },
+      {
+        "source" : "l12",
+        "target" : "l14",
+        "name" : "危害"
+      },
+      {
+        "source" : "l15",
+        "target" : "l12",
+        "name" : "引起"
+      },
+      {
+        "source" : "l16",
+        "target" : "l12",
+        "name" : "引起"
+      },
+      {
+        "source" : "l12",
+        "target" : "l17",
+        "name" : "措施"
+      },
+      {
+        "source" : "l1",
+        "target" : "l18",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l18",
+        "target" : "l19",
+        "name" : "图片"
+      },
+      {
+        "source" : "l18",
+        "target" : "l20",
+        "name" : "危害"
+      },
+      {
+        "source" : "l18",
+        "target" : "l21",
+        "name" : "危害"
+      },
+      {
+        "source" : "l22",
+        "target" : "l18",
+        "name" : "引起"
+      },
+      {
+        "source" : "l23",
+        "target" : "l18",
+        "name" : "引起"
+      },
+      {
+        "source" : "l24",
+        "target" : "l18",
+        "name" : "引起"
+      },
+      {
+        "source" : "l18",
+        "target" : "l25",
+        "name" : "措施"
+      },
+      {
+        "source" : "l18",
+        "target" : "l26",
+        "name" : "措施"
+      },
+      {
+        "source" : "l18",
+        "target" : "l27",
+        "name" : "措施"
+      },
+      {
+        "source" : "l18",
+        "target" : "l28",
+        "name" : "措施"
+      },
+      {
+        "source" : "l1",
+        "target" : "l29",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l29",
+        "target" : "l30",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l29",
+        "target" : "l31",
+        "name" : "图片"
+      },
+      {
+        "source" : "l30",
+        "target" : "l32",
+        "name" : "危害"
+      },
+      {
+        "source" : "l30",
+        "target" : "l33",
+        "name" : "危害"
+      },
+      {
+        "source" : "l34",
+        "target" : "l30",
+        "name" : "引起"
+      },
+      {
+        "source" : "l30",
+        "target" : "l35",
+        "name" : "措施"
+      },
+      {
+        "source" : "l30",
+        "target" : "l36",
+        "name" : "措施"
+      },
+      {
+        "source" : "l30",
+        "target" : "l37",
+        "name" : "措施"
+      },
+      {
+        "source" : "l1",
+        "target" : "l38",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l1",
+        "target" : "l39",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l38",
+        "target" : "l40",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l39",
+        "target" : "l40",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l40",
+        "target" : "l41",
+        "name" : "图片"
+      },
+      {
+        "source" : "l40",
+        "target" : "l42",
+        "name" : "图片"
+      },
+      {
+        "source" : "l40",
+        "target" : "l43",
+        "name" : "危害"
+      },
+      {
+        "source" : "l44",
+        "target" : "l40",
+        "name" : "引起"
+      },
+      {
+        "source" : "l45",
+        "target" : "l40",
+        "name" : "引起"
+      },
+      {
+        "source" : "l40",
+        "target" : "l46",
+        "name" : "措施"
+      },
+      {
+        "source" : "l40",
+        "target" : "l47",
+        "name" : "措施"
+      },
+      {
+        "source" : "l1",
+        "target" : "l48",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l48",
+        "target" : "l49",
+        "name" : "图片"
+      },
+      {
+        "source" : "l48",
+        "target" : "l50",
+        "name" : "危害"
+      },
+      {
+        "source" : "l48",
+        "target" : "l51",
+        "name" : "危害"
+      },
+      {
+        "source" : "l48",
+        "target" : "l52",
+        "name" : "危害"
+      },
+      {
+        "source" : "l48",
+        "target" : "l53",
+        "name" : "危害"
+      },
+      {
+        "source" : "l54",
+        "target" : "l48",
+        "name" : "引起"
+      },
+      {
+        "source" : "l55",
+        "target" : "l48",
+        "name" : "引起"
+      },
+      {
+        "source" : "l56",
+        "target" : "l48",
+        "name" : "引起"
+      },
+      {
+        "source" : "l48",
+        "target" : "l57",
+        "name" : "措施"
+      },
+      {
+        "source" : "l48",
+        "target" : "l58",
+        "name" : "措施"
+      },
+      {
+        "source" : "l1",
+        "target" : "l59",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l59",
+        "target" : "l60",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l59",
+        "target" : "l61",
+        "name" : "图片"
+      },
+      {
+        "source" : "l60",
+        "target" : "l62",
+        "name" : "危害"
+      },
+      {
+        "source" : "l60",
+        "target" : "l63",
+        "name" : "危害"
+      },
+      {
+        "source" : "l64",
+        "target" : "l60",
+        "name" : "引起"
+      },
+      {
+        "source" : "l65",
+        "target" : "l60",
+        "name" : "引起"
+      },
+      {
+        "source" : "l60",
+        "target" : "l66",
+        "name" : "措施"
+      },
+      {
+        "source" : "l60",
+        "target" : "l67",
+        "name" : "措施"
+      },
+      {
+        "source" : "l1",
+        "target" : "l68",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l68",
+        "target" : "l69",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l69",
+        "target" : "l70",
+        "name" : "图片"
+      },
+      {
+        "source" : "l69",
+        "target" : "l71",
+        "name" : "危害"
+      },
+      {
+        "source" : "l72",
+        "target" : "l69",
+        "name" : "引起"
+      },
+      {
+        "source" : "l73",
+        "target" : "l69",
+        "name" : "引起"
+      },
+      {
+        "source" : "l69",
+        "target" : "l74",
+        "name" : "措施"
+      },
+      {
+        "source" : "l69",
+        "target" : "l75",
+        "name" : "措施"
+      },
+      {
+        "source" : "l69",
+        "target" : "l76",
+        "name" : "措施"
+      },
+      {
+        "source" : "l1",
+        "target" : "l77",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l77",
+        "target" : "l78",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l78",
+        "target" : "l79",
+        "name" : "图片"
+      },
+      {
+        "source" : "l78",
+        "target" : "l80",
+        "name" : "图片"
+      },
+      {
+        "source" : "l78",
+        "target" : "l81",
+        "name" : "危害"
+      },
+      {
+        "source" : "l78",
+        "target" : "l82",
+        "name" : "危害"
+      },
+      {
+        "source" : "l78",
+        "target" : "l83",
+        "name" : "危害"
+      },
+      {
+        "source" : "l78",
+        "target" : "l84",
+        "name" : "危害"
+      },
+      {
+        "source" : "l85",
+        "target" : "l78",
+        "name" : "引起"
+      },
+      {
+        "source" : "l86",
+        "target" : "l78",
+        "name" : "引起"
+      },
+      {
+        "source" : "l78",
+        "target" : "l87",
+        "name" : "措施"
+      },
+      {
+        "source" : "l78",
+        "target" : "l88",
+        "name" : "措施"
+      },
+      {
+        "source" : "l78",
+        "target" : "l89",
+        "name" : "措施"
+      },
+      {
+        "source" : "l1",
+        "target" : "l90",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l90",
+        "target" : "l91",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l91",
+        "target" : "l92",
+        "name" : "图片"
+      },
+      {
+        "source" : "l91",
+        "target" : "l93",
+        "name" : "危害"
+      },
+      {
+        "source" : "l94",
+        "target" : "l91",
+        "name" : "引起"
+      },
+      {
+        "source" : "l95",
+        "target" : "l91",
+        "name" : "引起"
+      },
+      {
+        "source" : "l91",
+        "target" : "l96",
+        "name" : "措施"
+      },
+      {
+        "source" : "l91",
+        "target" : "l97",
+        "name" : "措施"
+      },
+      {
+        "source" : "l11",
+        "target" : "l98",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l11",
+        "target" : "l102",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l11",
+        "target" : "l99",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l98",
+        "target" : "l100",
+        "name" : "图片"
+      },
+      {
+        "source" : "l102",
+        "target" : "l101",
+        "name" : "图片"
+      },
+      {
+        "source" : "l99",
+        "target" : "l103",
+        "name" : "危害"
+      },
+      {
+        "source" : "l104",
+        "target" : "l99",
+        "name" : "引起"
+      },
+      {
+        "source" : "l105",
+        "target" : "l99",
+        "name" : "引起"
+      },
+      {
+        "source" : "l99",
+        "target" : "l106",
+        "name" : "措施"
+      },
+      {
+        "source" : "l99",
+        "target" : "l107",
+        "name" : "措施"
+      },
+      {
+        "source" : "l1",
+        "target" : "l108",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l108",
+        "target" : "l109",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l109",
+        "target" : "l110",
+        "name" : "图片"
+      },
+      {
+        "source" : "l109",
+        "target" : "l111",
+        "name" : "危害"
+      },
+      {
+        "source" : "l112",
+        "target" : "l109",
+        "name" : "引起"
+      },
+      {
+        "source" : "l113",
+        "target" : "l109",
+        "name" : "引起"
+      },
+      {
+        "source" : "l109",
+        "target" : "l114",
+        "name" : "措施"
+      },
+      {
+        "source" : "l109",
+        "target" : "l115",
+        "name" : "措施"
+      },
+      {
+        "source" : "l1",
+        "target" : "l116",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l116",
+        "target" : "l117",
+        "name" : "危害"
+      },
+      {
+        "source" : "l118",
+        "target" : "l116",
+        "name" : "引起"
+      },
+      {
+        "source" : "l119",
+        "target" : "l116",
+        "name" : "引起"
+      },
+      {
+        "source" : "l116",
+        "target" : "l120",
+        "name" : "措施"
+      },
+      {
+        "source" : "l116",
+        "target" : "l121",
+        "name" : "措施"
+      },
+      {
+        "source" : "l1",
+        "target" : "l122",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l122",
+        "target" : "l123",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l122",
+        "target" : "l124",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l123",
+        "target" : "l125",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l124",
+        "target" : "l125",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l125",
+        "target" : "l126",
+        "name" : "危害"
+      },
+      {
+        "source" : "l127",
+        "target" : "l125",
+        "name" : "引起"
+      },
+      {
+        "source" : "l125",
+        "target" : "l128",
+        "name" : "措施"
+      },
+      {
+        "source" : "l1",
+        "target" : "l129",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l129",
+        "target" : "l130",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l130",
+        "target" : "l131",
+        "name" : "危害"
+      },
+      {
+        "source" : "l132",
+        "target" : "l130",
+        "name" : "引起"
+      },
+      {
+        "source" : "l130",
+        "target" : "l133",
+        "name" : "措施"
+      },
+      {
+        "source" : "l1",
+        "target" : "l134",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l1",
+        "target" : "l135",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l11",
+        "target" : "l136",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l134",
+        "target" : "l140",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l135",
+        "target" : "l136",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l136",
+        "target" : "l139",
+        "name" : "危害"
+      },
+      {
+        "source" : "l140",
+        "target" : "l141",
+        "name" : "危害"
+      },
+      {
+        "source" : "l142",
+        "target" : "l140",
+        "name" : "引起"
+      },
+      {
+        "source" : "l140",
+        "target" : "l143",
+        "name" : "措施"
+      },
+      {
+        "source" : "l136",
+        "target" : "l144",
+        "name" : "措施"
+      },
+      {
+        "source" : "l136",
+        "target" : "l145",
+        "name" : "措施"
+      },
+      {
+        "source" : "l1",
+        "target" : "l146",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l146",
+        "target" : "l147",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l147",
+        "target" : "l148",
+        "name" : "危害"
+      },
+      {
+        "source" : "l147",
+        "target" : "l149",
+        "name" : "危害"
+      },
+      {
+        "source" : "l150",
+        "target" : "l147",
+        "name" : "引起"
+      },
+      {
+        "source" : "l147",
+        "target" : "l151",
+        "name" : "措施"
+      },
+      {
+        "source" : "l152",
+        "target" : "l153",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l152",
+        "target" : "l154",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l153",
+        "target" : "l155",
+        "name" : "危害"
+      },
+      {
+        "source" : "l154",
+        "target" : "l155",
+        "name" : "危害"
+      },
+      {
+        "source" : "l156",
+        "target" : "l153",
+        "name" : "引起"
+      },
+      {
+        "source" : "l156",
+        "target" : "l154",
+        "name" : "引起"
+      },
+      {
+        "source" : "l157",
+        "target" : "l153",
+        "name" : "引起"
+      },
+      {
+        "source" : "l157",
+        "target" : "l154",
+        "name" : "引起"
+      },
+      {
+        "source" : "l153",
+        "target" : "l158",
+        "name" : "措施"
+      },
+      {
+        "source" : "l154",
+        "target" : "l158",
+        "name" : "措施"
+      },
+      {
+        "source" : "l153",
+        "target" : "l159",
+        "name" : "措施"
+      },
+      {
+        "source" : "l154",
+        "target" : "l159",
+        "name" : "措施"
+      },
+      {
+        "source" : "l152",
+        "target" : "l160",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l160",
+        "target" : "l161",
+        "name" : "危害"
+      },
+      {
+        "source" : "l162",
+        "target" : "l160",
+        "name" : "引起"
+      },
+      {
+        "source" : "l160",
+        "target" : "l163",
+        "name" : "措施"
+      },
+      {
+        "source" : "l160",
+        "target" : "l164",
+        "name" : "措施"
+      },
+      {
+        "source" : "l165",
+        "target" : "l154",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l166",
+        "target" : "l154",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l154",
+        "target" : "l167",
+        "name" : "措施"
+      },
+      {
+        "source" : "l154",
+        "target" : "l161",
+        "name" : "危害"
+      },
+      {
+        "source" : "l152",
+        "target" : "l168",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l152",
+        "target" : "l169",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l168",
+        "target" : "l170",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l169",
+        "target" : "l170",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l170",
+        "target" : "l161",
+        "name" : "危害"
+      },
+      {
+        "source" : "l171",
+        "target" : "l170",
+        "name" : "引起"
+      },
+      {
+        "source" : "l172",
+        "target" : "l170",
+        "name" : "引起"
+      },
+      {
+        "source" : "l170",
+        "target" : "l173",
+        "name" : "措施"
+      },
+      {
+        "source" : "l170",
+        "target" : "l174",
+        "name" : "措施"
+      },
+      {
+        "source" : "l152",
+        "target" : "l175",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l175",
+        "target" : "l176",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l175",
+        "target" : "l177",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l176",
+        "target" : "l178",
+        "name" : "危害"
+      },
+      {
+        "source" : "l177",
+        "target" : "l178",
+        "name" : "危害"
+      },
+      {
+        "source" : "l179",
+        "target" : "l176",
+        "name" : "引起"
+      },
+      {
+        "source" : "l179",
+        "target" : "l177",
+        "name" : "引起"
+      },
+      {
+        "source" : "l180",
+        "target" : "l176",
+        "name" : "引起"
+      },
+      {
+        "source" : "l180",
+        "target" : "l177",
+        "name" : "引起"
+      },
+      {
+        "source" : "l176",
+        "target" : "l181",
+        "name" : "措施"
+      },
+      {
+        "source" : "l177",
+        "target" : "l181",
+        "name" : "措施"
+      },
+      {
+        "source" : "l175",
+        "target" : "l182",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l182",
+        "target" : "l183",
+        "name" : "危害"
+      },
+      {
+        "source" : "l184",
+        "target" : "l182",
+        "name" : "引起"
+      },
+      {
+        "source" : "l185",
+        "target" : "l182",
+        "name" : "引起"
+      },
+      {
+        "source" : "l182",
+        "target" : "l186",
+        "name" : "措施"
+      },
+      {
+        "source" : "l182",
+        "target" : "l187",
+        "name" : "措施"
+      },
+      {
+        "source" : "l152",
+        "target" : "l188",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l152",
+        "target" : "l189",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l188",
+        "target" : "l190",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l189",
+        "target" : "l190",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l190",
+        "target" : "l191",
+        "name" : "危害"
+      },
+      {
+        "source" : "l192",
+        "target" : "l190",
+        "name" : "引起"
+      },
+      {
+        "source" : "l190",
+        "target" : "l193",
+        "name" : "措施"
+      },
+      {
+        "source" : "l190",
+        "target" : "l194",
+        "name" : "措施"
+      },
+      {
+        "source" : "l152",
+        "target" : "l195",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l152",
+        "target" : "l196",
+        "name" : "子设备"
+      },
+      {
+        "source" : "l195",
+        "target" : "l197",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l196",
+        "target" : "l197",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "l197",
+        "target" : "l198",
+        "name" : "危害"
+      },
+      {
+        "source" : "l199",
+        "target" : "l197",
+        "name" : "引起"
+      },
+      {
+        "source" : "l197",
+        "target" : "l200",
+        "name" : "措施"
+      },
+      {
+        "source" : "l197",
+        "target" : "l201",
+        "name" : "措施"
+      },
+      {
+        "source" : "l134",
+        "target" : "l137",
+        "name" : "图片"
+      },
+      {
+        "source" : "l134",
+        "target" : "l138",
+        "name" : "图片"
+      },
+      {
+        "source" : "h1",
+        "target" : "h2",
+        "name" : "子设备"
+      },
+      {
+        "source" : "h2",
+        "target" : "h3",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h3",
+        "target" : "h4",
+        "name" : "危害"
+      },
+      {
+        "source" : "h5",
+        "target" : "h3",
+        "name" : "引起"
+      },
+      {
+        "source" : "h6",
+        "target" : "h3",
+        "name" : "引起"
+      },
+      {
+        "source" : "h7",
+        "target" : "h3",
+        "name" : "引起"
+      },
+      {
+        "source" : "h3",
+        "target" : "h8",
+        "name" : "措施"
+      },
+      {
+        "source" : "h3",
+        "target" : "h9",
+        "name" : "措施"
+      },
+      {
+        "source" : "h3",
+        "target" : "h10",
+        "name" : "措施"
+      },
+      {
+        "source" : "h1",
+        "target" : "h11",
+        "name" : "子设备"
+      },
+      {
+        "source" : "h1",
+        "target" : "h12",
+        "name" : "子设备"
+      },
+      {
+        "source" : "h11",
+        "target" : "h13",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h12",
+        "target" : "h13",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h13",
+        "target" : "h14",
+        "name" : "危害"
+      },
+      {
+        "source" : "h13",
+        "target" : "h15",
+        "name" : "危害"
+      },
+      {
+        "source" : "h16",
+        "target" : "h13",
+        "name" : "引起"
+      },
+      {
+        "source" : "h13",
+        "target" : "h17",
+        "name" : "措施"
+      },
+      {
+        "source" : "h13",
+        "target" : "h18",
+        "name" : "措施"
+      },
+      {
+        "source" : "h13",
+        "target" : "h19",
+        "name" : "措施"
+      },
+      {
+        "source" : "h1",
+        "target" : "h20",
+        "name" : "子设备"
+      },
+      {
+        "source" : "h20",
+        "target" : "h21",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h21",
+        "target" : "h22",
+        "name" : "图片"
+      },
+      {
+        "source" : "h23",
+        "target" : "h21",
+        "name" : "引起"
+      },
+      {
+        "source" : "h21",
+        "target" : "h24",
+        "name" : "措施"
+      },
+      {
+        "source" : "h21",
+        "target" : "h25",
+        "name" : "措施"
+      },
+      {
+        "source" : "h1",
+        "target" : "h26",
+        "name" : "子设备"
+      },
+      {
+        "source" : "h26",
+        "target" : "h27",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h27",
+        "target" : "h28",
+        "name" : "图片"
+      },
+      {
+        "source" : "h27",
+        "target" : "h29",
+        "name" : "危害"
+      },
+      {
+        "source" : "h30",
+        "target" : "h27",
+        "name" : "引起"
+      },
+      {
+        "source" : "h27",
+        "target" : "h31",
+        "name" : "措施"
+      },
+      {
+        "source" : "h27",
+        "target" : "h32",
+        "name" : "措施"
+      },
+      {
+        "source" : "h26",
+        "target" : "h33",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h33",
+        "target" : "h34",
+        "name" : "危害"
+      },
+      {
+        "source" : "h33",
+        "target" : "h35",
+        "name" : "图片"
+      },
+      {
+        "source" : "h36",
+        "target" : "h33",
+        "name" : "危害"
+      },
+      {
+        "source" : "h33",
+        "target" : "h37",
+        "name" : "措施"
+      },
+      {
+        "source" : "h33",
+        "target" : "h38",
+        "name" : "措施"
+      },
+      {
+        "source" : "h1",
+        "target" : "h39",
+        "name" : "子设备"
+      },
+      {
+        "source" : "h39",
+        "target" : "h40",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h40",
+        "target" : "h41",
+        "name" : "危害"
+      },
+      {
+        "source" : "h40",
+        "target" : "h42",
+        "name" : "危害"
+      },
+      {
+        "source" : "h40",
+        "target" : "h43",
+        "name" : "图片"
+      },
+      {
+        "source" : "h40",
+        "target" : "h44",
+        "name" : "措施"
+      },
+      {
+        "source" : "h40",
+        "target" : "h45",
+        "name" : "措施"
+      },
+      {
+        "source" : "h40",
+        "target" : "h46",
+        "name" : "措施"
+      },
+      {
+        "source" : "h1",
+        "target" : "h47",
+        "name" : "子设备"
+      },
+      {
+        "source" : "h47",
+        "target" : "h48",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h48",
+        "target" : "h49",
+        "name" : "危害"
+      },
+      {
+        "source" : "h50",
+        "target" : "h48",
+        "name" : "引起"
+      },
+      {
+        "source" : "h48",
+        "target" : "h51",
+        "name" : "措施"
+      },
+      {
+        "source" : "h48",
+        "target" : "h52",
+        "name" : "措施"
+      },
+      {
+        "source" : "h1",
+        "target" : "h53",
+        "name" : "子设备"
+      },
+      {
+        "source" : "h53",
+        "target" : "h54",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h53",
+        "target" : "h55",
+        "name" : "危害"
+      },
+      {
+        "source" : "h56",
+        "target" : "h53",
+        "name" : "引起"
+      },
+      {
+        "source" : "h53",
+        "target" : "h57",
+        "name" : "措施"
+      },
+      {
+        "source" : "h53",
+        "target" : "h58",
+        "name" : "措施"
+      },
+      {
+        "source" : "h53",
+        "target" : "h59",
+        "name" : "措施"
+      },
+      {
+        "source" : "h1",
+        "target" : "h60",
+        "name" : "子设备"
+      },
+      {
+        "source" : "h60",
+        "target" : "h61",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h61",
+        "target" : "h62",
+        "name" : "危害"
+      },
+      {
+        "source" : "h63",
+        "target" : "h61",
+        "name" : "引起"
+      },
+      {
+        "source" : "h64",
+        "target" : "h61",
+        "name" : "引起"
+      },
+      {
+        "source" : "h61",
+        "target" : "h65",
+        "name" : "措施"
+      },
+      {
+        "source" : "h61",
+        "target" : "h66",
+        "name" : "措施"
+      },
+      {
+        "source" : "h1",
+        "target" : "h67",
+        "name" : "子设备"
+      },
+      {
+        "source" : "h67",
+        "target" : "h68",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h68",
+        "target" : "h69",
+        "name" : "危害"
+      },
+      {
+        "source" : "h70",
+        "target" : "h68",
+        "name" : "引起"
+      },
+      {
+        "source" : "h68",
+        "target" : "h71",
+        "name" : "措施"
+      },
+      {
+        "source" : "h72",
+        "target" : "h73",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h73",
+        "target" : "h74",
+        "name" : "危害"
+      },
+      {
+        "source" : "h75",
+        "target" : "h73",
+        "name" : "引起"
+      },
+      {
+        "source" : "h73",
+        "target" : "h76",
+        "name" : "措施"
+      },
+      {
+        "source" : "h73",
+        "target" : "h77",
+        "name" : "措施"
+      },
+      {
+        "source" : "h72",
+        "target" : "h78",
+        "name" : "子设备"
+      },
+      {
+        "source" : "h78",
+        "target" : "h79",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h79",
+        "target" : "h80",
+        "name" : "危害"
+      },
+      {
+        "source" : "h81",
+        "target" : "h79",
+        "name" : "引起"
+      },
+      {
+        "source" : "h79",
+        "target" : "h82",
+        "name" : "措施"
+      },
+      {
+        "source" : "h72",
+        "target" : "h83",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h83",
+        "target" : "h84",
+        "name" : "危害"
+      },
+      {
+        "source" : "h83",
+        "target" : "h85",
+        "name" : "危害"
+      },
+      {
+        "source" : "h83",
+        "target" : "h86",
+        "name" : "危害"
+      },
+      {
+        "source" : "h87",
+        "target" : "h83",
+        "name" : "引起"
+      },
+      {
+        "source" : "h83",
+        "target" : "h88",
+        "name" : "措施"
+      },
+      {
+        "source" : "h83",
+        "target" : "h89",
+        "name" : "措施"
+      },
+      {
+        "source" : "h90",
+        "target" : "h91",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h92",
+        "target" : "h91",
+        "name" : "引起"
+      },
+      {
+        "source" : "h93",
+        "target" : "h91",
+        "name" : "引起"
+      },
+      {
+        "source" : "h91",
+        "target" : "h94",
+        "name" : "措施"
+      },
+      {
+        "source" : "h72",
+        "target" : "h95",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h95",
+        "target" : "h96",
+        "name" : "危害"
+      },
+      {
+        "source" : "h97",
+        "target" : "h95",
+        "name" : "引起"
+      },
+      {
+        "source" : "h95",
+        "target" : "h98",
+        "name" : "措施"
+      },
+      {
+        "source" : "h95",
+        "target" : "h99",
+        "name" : "措施"
+      },
+      {
+        "source" : "h72",
+        "target" : "h100",
+        "name" : "子设备"
+      },
+      {
+        "source" : "h100",
+        "target" : "h101",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h101",
+        "target" : "h102",
+        "name" : "危害"
+      },
+      {
+        "source" : "h103",
+        "target" : "h101",
+        "name" : "引起"
+      },
+      {
+        "source" : "h104",
+        "target" : "h101",
+        "name" : "引起"
+      },
+      {
+        "source" : "h101",
+        "target" : "h105",
+        "name" : "措施"
+      },
+      {
+        "source" : "h72",
+        "target" : "h106",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h106",
+        "target" : "h107",
+        "name" : "危害"
+      },
+      {
+        "source" : "h108",
+        "target" : "h106",
+        "name" : "引起"
+      },
+      {
+        "source" : "h106",
+        "target" : "h109",
+        "name" : "措施"
+      },
+      {
+        "source" : "h106",
+        "target" : "h110",
+        "name" : "措施"
+      },
+      {
+        "source" : "h72",
+        "target" : "h111",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h111",
+        "target" : "h112",
+        "name" : "危害"
+      },
+      {
+        "source" : "h113",
+        "target" : "h111",
+        "name" : "引起"
+      },
+      {
+        "source" : "h111",
+        "target" : "h114",
+        "name" : "措施"
+      },
+      {
+        "source" : "h111",
+        "target" : "h115",
+        "name" : "措施"
+      },
+      {
+        "source" : "h72",
+        "target" : "h116",
+        "name" : "子设备"
+      },
+      {
+        "source" : "h116",
+        "target" : "h117",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h117",
+        "target" : "h118",
+        "name" : "危害"
+      },
+      {
+        "source" : "h119",
+        "target" : "h117",
+        "name" : "引起"
+      },
+      {
+        "source" : "h120",
+        "target" : "h117",
+        "name" : "引起"
+      },
+      {
+        "source" : "h117",
+        "target" : "h121",
+        "name" : "措施"
+      },
+      {
+        "source" : "h117",
+        "target" : "h122",
+        "name" : "措施"
+      },
+      {
+        "source" : "h72",
+        "target" : "h123",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h123",
+        "target" : "h124",
+        "name" : "危害"
+      },
+      {
+        "source" : "h125",
+        "target" : "h123",
+        "name" : "引起"
+      },
+      {
+        "source" : "h123",
+        "target" : "h126",
+        "name" : "措施"
+      },
+      {
+        "source" : "h127",
+        "target" : "h128",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h128",
+        "target" : "h129",
+        "name" : "危害"
+      },
+      {
+        "source" : "h130",
+        "target" : "h128",
+        "name" : "引起"
+      },
+      {
+        "source" : "h128",
+        "target" : "h131",
+        "name" : "措施"
+      },
+      {
+        "source" : "h128",
+        "target" : "h132",
+        "name" : "措施"
+      },
+      {
+        "source" : "h128",
+        "target" : "h133",
+        "name" : "措施"
+      },
+      {
+        "source" : "h127",
+        "target" : "h134",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h134",
+        "target" : "h135",
+        "name" : "危害"
+      },
+      {
+        "source" : "h136",
+        "target" : "h134",
+        "name" : "引起"
+      },
+      {
+        "source" : "h134",
+        "target" : "h137",
+        "name" : "措施"
+      },
+      {
+        "source" : "h134",
+        "target" : "h138",
+        "name" : "措施"
+      },
+      {
+        "source" : "h127",
+        "target" : "h139",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h139",
+        "target" : "h140",
+        "name" : "图片"
+      },
+      {
+        "source" : "h140",
+        "target" : "h141",
+        "name" : "危害"
+      },
+      {
+        "source" : "h142",
+        "target" : "h140",
+        "name" : "引起"
+      },
+      {
+        "source" : "h140",
+        "target" : "h143",
+        "name" : "措施"
+      },
+      {
+        "source" : "h140",
+        "target" : "h144",
+        "name" : "措施"
+      },
+      {
+        "source" : "h127",
+        "target" : "h145",
+        "name" : "子设备"
+      },
+      {
+        "source" : "h145",
+        "target" : "h146",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h146",
+        "target" : "h147",
+        "name" : "危害"
+      },
+      {
+        "source" : "h146",
+        "target" : "h148",
+        "name" : "危害"
+      },
+      {
+        "source" : "h149",
+        "target" : "h146",
+        "name" : "引起"
+      },
+      {
+        "source" : "h146",
+        "target" : "h150",
+        "name" : "措施"
+      },
+      {
+        "source" : "h146",
+        "target" : "h151",
+        "name" : "措施"
+      },
+      {
+        "source" : "h127",
+        "target" : "h152",
+        "name" : "子设备"
+      },
+      {
+        "source" : "h152",
+        "target" : "h153",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h153",
+        "target" : "h154",
+        "name" : "危害"
+      },
+      {
+        "source" : "h155",
+        "target" : "h153",
+        "name" : "引起"
+      },
+      {
+        "source" : "h153",
+        "target" : "h156",
+        "name" : "措施"
+      },
+      {
+        "source" : "h153",
+        "target" : "h157",
+        "name" : "措施"
+      },
+      {
+        "source" : "h127",
+        "target" : "h158",
+        "name" : "子设备"
+      },
+      {
+        "source" : "h158",
+        "target" : "h159",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h159",
+        "target" : "h160",
+        "name" : "危害"
+      },
+      {
+        "source" : "h161",
+        "target" : "h159",
+        "name" : "引起"
+      },
+      {
+        "source" : "h159",
+        "target" : "h162",
+        "name" : "措施"
+      },
+      {
+        "source" : "h159",
+        "target" : "h163",
+        "name" : "措施"
+      },
+      {
+        "source" : "h127",
+        "target" : "h164",
+        "name" : "子设备"
+      },
+      {
+        "source" : "h164",
+        "target" : "h165",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h164",
+        "target" : "h166",
+        "name" : "危害"
+      },
+      {
+        "source" : "h167",
+        "target" : "h164",
+        "name" : "引起"
+      },
+      {
+        "source" : "h164",
+        "target" : "h168",
+        "name" : "措施"
+      },
+      {
+        "source" : "h164",
+        "target" : "h169",
+        "name" : "措施"
+      },
+      {
+        "source" : "h127",
+        "target" : "h170",
+        "name" : "子设备"
+      },
+      {
+        "source" : "h170",
+        "target" : "h171",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h171",
+        "target" : "h172",
+        "name" : "危害"
+      },
+      {
+        "source" : "h173",
+        "target" : "h171",
+        "name" : "引起"
+      },
+      {
+        "source" : "h171",
+        "target" : "h174",
+        "name" : "措施"
+      },
+      {
+        "source" : "h171",
+        "target" : "h175",
+        "name" : "措施"
+      },
+      {
+        "source" : "h171",
+        "target" : "h176",
+        "name" : "子设备"
+      },
+      {
+        "source" : "h176",
+        "target" : "h177",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h176",
+        "target" : "h178",
+        "name" : "危害"
+      },
+      {
+        "source" : "h179",
+        "target" : "h176",
+        "name" : "引起"
+      },
+      {
+        "source" : "h176",
+        "target" : "h180",
+        "name" : "措施"
+      },
+      {
+        "source" : "h176",
+        "target" : "h181",
+        "name" : "措施"
+      },
+      {
+        "source" : "h127",
+        "target" : "h182",
+        "name" : "子设备"
+      },
+      {
+        "source" : "h182",
+        "target" : "h183",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "h183",
+        "target" : "h184",
+        "name" : "危害"
+      },
+      {
+        "source" : "h185",
+        "target" : "h183",
+        "name" : "引起"
+      },
+      {
+        "source" : "h183",
+        "target" : "h186",
+        "name" : "措施"
+      },
+      {
+        "source" : "h183",
+        "target" : "h187",
+        "name" : "措施"
+      },
+      {
+        "source" : "w1",
+        "target" : "w2",
+        "name" : "子设备"
+      },
+      {
+        "source" : "w2",
+        "target" : "w3",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "w3",
+        "target" : "w4",
+        "name" : "危害"
+      },
+      {
+        "source" : "w5",
+        "target" : "w3",
+        "name" : "引起"
+      },
+      {
+        "source" : "w3",
+        "target" : "w6",
+        "name" : "措施"
+      },
+      {
+        "source" : "w3",
+        "target" : "w7",
+        "name" : "措施"
+      },
+      {
+        "source" : "w3",
+        "target" : "w8",
+        "name" : "措施"
+      },
+      {
+        "source" : "w1",
+        "target" : "w9",
+        "name" : "子设备"
+      },
+      {
+        "source" : "w9",
+        "target" : "w10",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "w9",
+        "target" : "w11",
+        "name" : "图片"
+      },
+      {
+        "source" : "w10",
+        "target" : "w12",
+        "name" : "危害"
+      },
+      {
+        "source" : "w13",
+        "target" : "w10",
+        "name" : "引起"
+      },
+      {
+        "source" : "w14",
+        "target" : "w10",
+        "name" : "引起"
+      },
+      {
+        "source" : "w10",
+        "target" : "w15",
+        "name" : "措施"
+      },
+      {
+        "source" : "w10",
+        "target" : "w16",
+        "name" : "措施"
+      },
+      {
+        "source" : "w17",
+        "target" : "w18",
+        "name" : "子设备"
+      },
+      {
+        "source" : "w18",
+        "target" : "w19",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "w19",
+        "target" : "w20",
+        "name" : "危害"
+      },
+      {
+        "source" : "w21",
+        "target" : "w19",
+        "name" : "引起"
+      },
+      {
+        "source" : "w22",
+        "target" : "w19",
+        "name" : "引起"
+      },
+      {
+        "source" : "w19",
+        "target" : "w23",
+        "name" : "措施"
+      },
+      {
+        "source" : "w19",
+        "target" : "w24",
+        "name" : "措施"
+      },
+      {
+        "source" : "w25",
+        "target" : "w26",
+        "name" : "子设备"
+      },
+      {
+        "source" : "w26",
+        "target" : "w27",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "w27",
+        "target" : "w28",
+        "name" : "危害"
+      },
+      {
+        "source" : "w29",
+        "target" : "w27",
+        "name" : "引起"
+      },
+      {
+        "source" : "w30",
+        "target" : "w27",
+        "name" : "引起"
+      },
+      {
+        "source" : "w27",
+        "target" : "w31",
+        "name" : "措施"
+      },
+      {
+        "source" : "w27",
+        "target" : "w32",
+        "name" : "措施"
+      },
+      {
+        "source" : "w27",
+        "target" : "w33",
+        "name" : "措施"
+      },
+      {
+        "source" : "w1",
+        "target" : "w34",
+        "name" : "子设备"
+      },
+      {
+        "source" : "w34",
+        "target" : "w35",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "w35",
+        "target" : "w36",
+        "name" : "危害"
+      },
+      {
+        "source" : "w37",
+        "target" : "w36",
+        "name" : "引起"
+      },
+      {
+        "source" : "w36",
+        "target" : "w38",
+        "name" : "措施"
+      },
+      {
+        "source" : "w36",
+        "target" : "w39",
+        "name" : "措施"
+      },
+      {
+        "source" : "w26",
+        "target" : "w40",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "w40",
+        "target" : "w41",
+        "name" : "危害"
+      },
+      {
+        "source" : "w42",
+        "target" : "w40",
+        "name" : "引起"
+      },
+      {
+        "source" : "w40",
+        "target" : "w43",
+        "name" : "措施"
+      },
+      {
+        "source" : "w40",
+        "target" : "w44",
+        "name" : "措施"
+      },
+      {
+        "source" : "w45",
+        "target" : "w46",
+        "name" : "子设备"
+      },
+      {
+        "source" : "w46",
+        "target" : "w47",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "w47",
+        "target" : "w48",
+        "name" : "危害"
+      },
+      {
+        "source" : "w47",
+        "target" : "w49",
+        "name" : "危害"
+      },
+      {
+        "source" : "w50",
+        "target" : "w47",
+        "name" : "引起"
+      },
+      {
+        "source" : "w47",
+        "target" : "w51",
+        "name" : "措施"
+      },
+      {
+        "source" : "w47",
+        "target" : "w52",
+        "name" : "措施"
+      },
+      {
+        "source" : "w53",
+        "target" : "w54",
+        "name" : "子设备"
+      },
+      {
+        "source" : "w54",
+        "target" : "w55",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "w55",
+        "target" : "w56",
+        "name" : "危害"
+      },
+      {
+        "source" : "w57",
+        "target" : "w55",
+        "name" : "引起"
+      },
+      {
+        "source" : "w55",
+        "target" : "w58",
+        "name" : "措施"
+      },
+      {
+        "source" : "w54",
+        "target" : "w59",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "w59",
+        "target" : "w60",
+        "name" : "危害"
+      },
+      {
+        "source" : "w59",
+        "target" : "w61",
+        "name" : "危害"
+      },
+      {
+        "source" : "w62",
+        "target" : "w59",
+        "name" : "引起"
+      },
+      {
+        "source" : "w59",
+        "target" : "w63",
+        "name" : "措施"
+      },
+      {
+        "source" : "w25",
+        "target" : "w64",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "w64",
+        "target" : "w65",
+        "name" : "危害"
+      },
+      {
+        "source" : "w66",
+        "target" : "w64",
+        "name" : "引起"
+      },
+      {
+        "source" : "w67",
+        "target" : "w64",
+        "name" : "引起"
+      },
+      {
+        "source" : "w64",
+        "target" : "w68",
+        "name" : "措施"
+      },
+      {
+        "source" : "w64",
+        "target" : "w69",
+        "name" : "措施"
+      },
+      {
+        "source" : "w2",
+        "target" : "w70",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "w70",
+        "target" : "w71",
+        "name" : "危害"
+      },
+      {
+        "source" : "w72",
+        "target" : "w70",
+        "name" : "引起"
+      },
+      {
+        "source" : "w70",
+        "target" : "w73",
+        "name" : "措施"
+      },
+      {
+        "source" : "w2",
+        "target" : "w74",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "w74",
+        "target" : "w75",
+        "name" : "危害"
+      },
+      {
+        "source" : "w76",
+        "target" : "w74",
+        "name" : "引起"
+      },
+      {
+        "source" : "w74",
+        "target" : "w77",
+        "name" : "措施"
+      },
+      {
+        "source" : "w2",
+        "target" : "w78",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "w78",
+        "target" : "w79",
+        "name" : "危害"
+      },
+      {
+        "source" : "w78",
+        "target" : "w80",
+        "name" : "危害"
+      },
+      {
+        "source" : "w81",
+        "target" : "w78",
+        "name" : "引起"
+      },
+      {
+        "source" : "w78",
+        "target" : "w82",
+        "name" : "措施"
+      },
+      {
+        "source" : "w83",
+        "target" : "w84",
+        "name" : "子设备"
+      },
+      {
+        "source" : "w84",
+        "target" : "w85",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "w84",
+        "target" : "w86",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "w83",
+        "target" : "w87",
+        "name" : "图片"
+      },
+      {
+        "source" : "w85",
+        "target" : "w88",
+        "name" : "危害"
+      },
+      {
+        "source" : "w86",
+        "target" : "w88",
+        "name" : "危害"
+      },
+      {
+        "source" : "w89",
+        "target" : "w85",
+        "name" : "引起"
+      },
+      {
+        "source" : "w85",
+        "target" : "w90",
+        "name" : "措施"
+      },
+      {
+        "source" : "w85",
+        "target" : "w91",
+        "name" : "措施"
+      },
+      {
+        "source" : "w92",
+        "target" : "w86",
+        "name" : "引起"
+      },
+      {
+        "source" : "w86",
+        "target" : "w93",
+        "name" : "措施"
+      },
+      {
+        "source" : "w94",
+        "target" : "w95",
+        "name" : "子设备"
+      },
+      {
+        "source" : "w95",
+        "target" : "w96",
+        "name" : "缺陷"
+      },
+      {
+        "source" : "w96",
+        "target" : "w97",
+        "name" : "危害"
+      },
+      {
+        "source" : "w98",
+        "target" : "w96",
+        "name" : "引起"
+      },
+      {
+        "source": "w96",
+        "target": "w99",
+        "name": "措施"
+      },
+      {
+        "source": "l1",
+        "target": "z1",
+        "name": "图片"
+      },
+      {
+        "source": "l2",
+        "target": "z2",
+        "name": "图片"
+      },
+      {
+        "source": "l11",
+        "target": "z3",
+        "name": "图片"
+      },
+      {
+        "source": "l38",
+        "target": "z4",
+        "name": "图片"
+      },
+      {
+        "source": "l68",
+        "target": "z5",
+        "name": "图片"
+      },
+      {
+        "source": "l108",
+        "target": "z6",
+        "name": "图片"
+      },
+      {
+        "source": "l122",
+        "target": "z7",
+        "name": "图片"
+      },
+      {
+        "source": "l123",
+        "target": "z8",
+        "name": "图片"
+      },
+      {
+        "source": "l124",
+        "target": "z9",
+        "name": "图片"
+      },
+      {
+        "source": "l129",
+        "target": "z10",
+        "name": "图片"
+      },
+      {
+        "source": "l135",
+        "target": "z11",
+        "name": "图片"
+      },
+      {
+        "source": "l146",
+        "target": "z12",
+        "name": "图片"
+      },
+      {
+        "source": "l165",
+        "target": "z13",
+        "name": "图片"
+      },
+      {
+        "source": "l166",
+        "target": "z14",
+        "name": "图片"
+      },
+      {
+        "source": "l168",
+        "target": "z15",
+        "name": "图片"
+      },
+      {
+        "source": "l169",
+        "target": "z16",
+        "name": "图片"
+      },
+      {
+        "source": "l175",
+        "target": "z17",
+        "name": "图片"
+      },
+      {
+        "source": "l188",
+        "target": "z18",
+        "name": "图片"
+      },
+      {
+        "source": "l189",
+        "target": "z19",
+        "name": "图片"
+      },
+      {
+        "source": "l195",
+        "target": "z20",
+        "name": "图片"
+      },
+      {
+        "source": "l196",
+        "target": "z21",
+        "name": "图片"
+      },
+      {
+        "source": "h1",
+        "target": "z22",
+        "name": "图片"
+      },
+      {
+        "source": "h2",
+        "target": "z23",
+        "name": "图片"
+      },
+      {
+        "source": "h11",
+        "target": "z24",
+        "name": "图片"
+      },
+      {
+        "source": "h12",
+        "target": "z24",
+        "name": "图片"
+      },
+      {
+        "source": "h20",
+        "target": "z25",
+        "name": "图片"
+      },
+      {
+        "source": "h26",
+        "target": "z25",
+        "name": "图片"
+      },
+      {
+        "source": "h20",
+        "target": "z26",
+        "name": "图片"
+      },
+      {
+        "source": "h47",
+        "target": "z27",
+        "name": "图片"
+      },
+      {
+        "source": "h53",
+        "target": "z28",
+        "name": "图片"
+      },
+      {
+        "source": "h67",
+        "target": "z29",
+        "name": "图片"
+      },
+      {
+        "source": "h72",
+        "target": "z30",
+        "name": "图片"
+      },
+      {
+        "source": "h90",
+        "target": "z31",
+        "name": "图片"
+      },
+      {
+        "source": "h100",
+        "target": "z32",
+        "name": "图片"
+      },
+      {
+        "source": "h116",
+        "target": "z33",
+        "name": "图片"
+      },
+      {
+        "source": "h152",
+        "target": "z34",
+        "name": "图片"
+      },
+      {
+        "source": "h158",
+        "target": "z35",
+        "name": "图片"
+      },
+      {
+        "source": "h164",
+        "target": "z36",
+        "name": "图片"
+      },
+      {
+        "source": "w2",
+        "target": "z37",
+        "name": "图片"
+      },
+      {
+        "source": "w1",
+        "target": "z37",
+        "name": "图片"
+      },
+      {
+        "source": "w17",
+        "target": "z38",
+        "name": "图片"
+      },
+      {
+        "source": "w18",
+        "target": "z4",
+        "name": "图片"
+      },
+      {
+        "source": "w25",
+        "target": "z39",
+        "name": "图片"
+      },
+      {
+        "source": "w45",
+        "target": "z40",
+        "name": "图片"
+      },
+      {
+        "source": "w83",
+        "target": "z41",
+        "name": "图片"
+      },
+      {
+        "source": "w84",
+        "target": "z42",
+        "name": "图片"
+      },
+      {
+        "source": "w94",
+        "target": "z43",
+        "name": "图片"
+      }
+  ]
+}
